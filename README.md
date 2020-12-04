@@ -98,8 +98,8 @@ ROS资料：
 提取码：b6mn
 
 24、回复关键字：深度学习
-链接：https://pan.baidu.com/s/1uwNEYReCk1v2jYL1hm9e5A  
-提取码：hd8n 
+链接: https://pan.baidu.com/s/12fljXusaWhh8E6aqU0MgQQ 
+提取码: if2w 
 
 25、回复关键字：计算机视觉
 计算机视觉：
