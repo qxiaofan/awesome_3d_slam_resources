@@ -224,8 +224,30 @@ SLAM：https://t.zsxq.com/aYR3JMv
 请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
 
 48、回复关键字：3D视觉github资源汇总
-感谢大家对工坊的陪伴与支持，希望未来我们能够一起进步
-链接: https://pan.baidu.com/s/1bM2W-IEMFsIlLBd_0Vc_hQ 提取码: r4fv
+
+CV相关的会议与期刊：https://github.com/qxiaofan/awesome_3d_conference_journals
+
+CV公司：https://github.com/qxiaofan/awesome_3d_vision_company_summary
+
+深度学习：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-deep-learning
+
+三维重建：https://github.com/qxiaofan/awesome_3d_restruction
+
+SLAM：https://github.com/qxiaofan/awesome_slam_papers
+
+6D姿态估计：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-6D-pose-estimation
+
+点云处理：https://github.com/qxiaofan/awesome_PointCloud_process
+
+深度估计：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-depth-estimation
+
+自动驾驶：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-Autopilot-algorithm
+
+3D检测：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection
+
+缺陷检测:https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-defect-detection
+
+3D视觉精品文章汇总:https://github.com/qxiaofan/awesome-3D-Vision-Papers
 
 49、回复关键字：CS231n
 CS231n:
