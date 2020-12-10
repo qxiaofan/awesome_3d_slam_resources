@@ -25,14 +25,14 @@ QQ群「3D视觉研习社」，群号：574432628
 
 <a name="关键字汇总"></a>
 
-- 关键字：改进的点对特征
+- 回复关键字：改进的点对特征
 
   ```
   论文下载地址：
   https://dacemirror.sci-hub.se/proceedingsarticle/6c04e927e78ba7ce954a4b4a490dc1ac/vidal2018.pdf#view=FitH
   ```
 
-- 关键字：Matlab
+- 回复关键字：Matlab
 
 Linux下：Matlab R2016a 链接: https://pan.baidu.com/s/12aR5cC2ysg07WakwxNBt0A 提取码: fpuh 
 
@@ -560,6 +560,12 @@ NRGB-D:
 - 回复关键字：机器学习
   链接：https://pan.baidu.com/s/1lGINq-ynw9mzZW4TUZGfJA  
   提取码：an48
+  
+- 回复关键字：123
+  
+  Pytorch资料：链接: https://pan.baidu.com/s/1xQSv9312ETJODxdIZX69mw 提取码: 8ka3 
+  
+  
 
 以上若有链接失效，请后台留言，或者联系我们小助理微信：CV_LAB，我们将定期修正完善，并不断增补资料。//2020年12月06日。
 
