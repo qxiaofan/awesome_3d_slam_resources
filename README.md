@@ -22,181 +22,139 @@
 
 - 回复关键字：Matlab
 
- Linux下：Matlab R2016a 链接: https://pan.baidu.com/s/12aR5cC2ysg07WakwxNBt0A 提取码: fpuh 
+​        Linux下：Matlab R2016a 链接: https://pan.baidu.com/s/12aR5cC2ysg07WakwxNBt0A 提取码: fpuh 
 
-Windows: Matlab2018a 链接: https://pan.baidu.com/s/1lPN5_3UZvBEG2iJX0ApxTw 提取码: it9t 
+​        Windows: Matlab2018a 链接: https://pan.baidu.com/s/1lPN5_3UZvBEG2iJX0ApxTw 提取码: it9t 
 
 - 回复关键字：Anaconda
   Anaconda 百度云下载链接：https://pan.baidu.com/s/17hV6y5DygUNV7dIb3xt67A 密码：fd0j
-
 - 回复关键字：VA助手
   VA助手破解版安装包，链接：https://pan.baidu.com/s/1JSSCk4N1revCdzIDlzyBNQ 密码：gyxv
-
 - 回复关键字：机器视觉共享资源
   链接：https://pan.baidu.com/s/1zxAr3lKYrqWRC3egyYOBuw 提取码：2pbr
-
 - 回复关键字：SLAM
   链接：https://pan.baidu.com/s/1xH_b8Ms-p-R2KLREzEMS2A 提取码：wxqj
-
 - 回复关键字：解AX=XB
   手眼标定核心方程：AX=XB解法参考论文：
   链接: https://pan.baidu.com/s/1N41lR-Ja4_YiBfQJZi-0Uw 提取码: nrmt 
-
 - 回复关键字：PCL1.8.1+VS2015
   1、PCL-1.8.1-All-In-One；
   2、对应pdb
   3、源码
   链接：https://pan.baidu.com/s/1XW_C4cN5EdhQPUcYQnNu7A 提取码：kgsm 
-
 - 回复关键字：PCL-1.8.1源码
   PCL-1.8.1源码下载：
   链接: https://pan.baidu.com/s/1tLKZ-i03XwxVbdsZ-LLGWQ 提取码: srfx
   链接若失效，请加小助理微信，备注：获取PCL-1.8.1源码资料。
-
 - 回复关键字：直通滤波
   直通滤波相关代码与效果图：
   链接: https://pan.baidu.com/s/1xhKKNdfziXh61l9NB3i2OQ 提取码: bhmx
-
 - 回复关键字：体素法滤波
   体素法滤波代码+效果图：
   链接: https://pan.baidu.com/s/1Hi8dGVwrv965pMqd_KZoog 提取码: cytr 
-
 - 回复关键字：统计滤波
   统计滤波相关代码与效果图：
   链接: https://pan.baidu.com/s/1cQA0jCA6P8uSpFZKDkQqng 提取码: fvp3
-
 - 回复关键字：投影滤波
   链接：https://pan.baidu.com/s/1MpVOFszzOLzvSsk7gGXMnA 
   提取码：8v72
-
 - 回复关键字：Linux
   Linux资料：
   链接：https://pan.baidu.com/s/1NnO7LBpmm1oszZYBQcQs7g 
   提取码：ta0r 
-
 - 回复关键字：立体视觉综述
   StereoVIsion原文：
   链接：https://pan.baidu.com/s/1BEj1T35xCVPhlYm6zgH4Xw 提取码：1s81
-
 - 回复关键字：OpenCL
   OpenCL学习资料：
   链接：https://pan.baidu.com/s/1xs6iA4tFw0SCi5ynQ468kA 提取码：zwoc
-
 - 回复关键字：Git
   链接：https://pan.baidu.com/s/1AG8Uf8GQg2BU_3no1Hb4NQ  
   提取码：i7mi
-
 - 回复关键字：Shell
   链接：https://pan.baidu.com/s/17KcJASA_AxRSfvg6_qYleg 
   提取码：ll9h
-
 - 回复关键字：数学基础
   数学基础：
   链接：https://pan.baidu.com/s/1JMgvGU179ueoJ6DLSOaesw  
   提取码：14d3 
-
 - 回复关键字：数据结构与算法
   数据结构与算法：
   链接：https://pan.baidu.com/s/1gJZNjxoIzvfARrg5bIXd6A 提取码：zxsm 
-
 - 回复关键字：C++
   链接：https://pan.baidu.com/s/14jUIMKMWckqaD6w2_26nGw  
   提取码：m5vv
-
 - 回复关键字：Python
   Python资料：
   链接：https://pan.baidu.com/s/1iAqSLeIfA2HsUuPjej6B6A 
   提取码：vf9a
-
 - 回复关键字：C语言
   C语言：
   链接：https://pan.baidu.com/s/1GwY9xAjHzrFTK2Y9-kWupw 
   提取码：i3t3 
-
 - 回复关键字：ROS
   ROS资料：
   链接：https://pan.baidu.com/s/1-79odnoLvRODG5rSu-09kA  
   提取码：b6mn
-
 - 回复关键字：深度学习
   链接: https://pan.baidu.com/s/12fljXusaWhh8E6aqU0MgQQ 
   提取码: if2w 
-
 - 回复关键字：计算机视觉
   计算机视觉：
   链接：https://pan.baidu.com/s/17_xzUY2hgKb0jpQxNG3zoQ 
   提取码：la3w
-
 - 回复关键字：立体视觉
   链接：https://pan.baidu.com/s/1zGi_NIg9lZyIWgY1TJvj1w  
   提取码：56bg 
-
 - 回复关键字：事件相机作者
   作者微信：larry_dongy
-
-- 回复关键字：第一期分享
+- 回复关键字：第一期分享  
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
-- 回复关键字：相机标定
+- 回复关键字：相机标定   
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
-- 回复关键字：第二期分享
+- 回复关键字：第二期分享    
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
-- 回复关键字：目标检测
+- 回复关键字：目标检测    
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
-- 回复关键字：第五期分享
+- 回复关键字：第五期分享    
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
-- 回复关键字：第三期分享
+- 回复关键字：第三期分享    
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
-- 回复关键字：第四期分享
+- 回复关键字：第四期分享    
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
-- 回复关键字：DSO
+- 回复关键字：DSO   
   DSO学习资料：
   链接: https://pan.baidu.com/s/1L8v0ZODbvRNaZNNLwD8Tsw 提取码: 86vz
-
 - 回复关键字：激光
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
 - 回复关键字：图像对齐
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
 - 回复关键字：3D视觉
   链接：https://pan.baidu.com/s/1mWlOHsIvIJkA2T9QWFJKQA 提取码：tg46
   链接：https://pan.baidu.com/s/1yjFdAqFVNRiX5SGHbUZyAg 提取码：5k79 
   链接：https://pan.baidu.com/s/1HkwKJFmakvdjGIKdO51NCQ  提取码：n4an
   由于文件过多，链接经常失效，若失效，请加小助理微信CV_LAB，备注：获取3D视觉学习资料。
-
 - 回复关键字：DirectBA
   链接：https://pan.baidu.com/s/1B78E7WTwv_4ZLBVAKcSoBQ 提取码：bu9a
-
 - 回复关键字：CVPR2020_Event_Camera
   链接: https://pan.baidu.com/s/1Q5D6yaF7PZk2_JnpndpoNg 提取码: 9umj
-
 - 回复关键字：LRNNet
   论文下载：https://arxiv.org/pdf/2006.02706.pdf
-
 - 回复关键字：位姿识别论文
   基于三维向量对的乱序堆叠物体的位姿识别 ，参考论文：
   链接: https://pan.baidu.com/s/1O3Hba4cqhEO7NYgY1lkkqg 提取码: pxrw
-
 - 回复关键字：立体匹配
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
 - 回复关键字：3D视觉优质源码
   源码分享：https://t.zsxq.com/qN3FyZb
   格雷码：https://t.zsxq.com/zf6iyvV
@@ -207,42 +165,38 @@ Windows: Matlab2018a 链接: https://pan.baidu.com/s/1lPN5_3UZvBEG2iJX0ApxTw 提
   点云：https://t.zsxq.com/U7qrJYz
   立体匹配：https://t.zsxq.com/3v3vFAY
   注：该模块需付费，星球成员可免费学习，由星主与合伙人以及各嘉宾持续完善中。
-
 - 回复关键字：基于结构光的立体视觉
   链接：https://pan.baidu.com/s/1KLMXPQEpELToxoZGKwUkGQ 提取码：pm2r
-
 - 回复关键字：手眼标定
   地址：https://www.bilibili.com/video/BV19p4y1i718
-
 - 回复关键字：深度相机
   欢迎大家在关注我们B站UP主：3D视觉工坊，地址https://space.bilibili.com/483478083，每次开播自动提醒。
   请加QQ群（3D视觉研习社），群号：574432628 ，课件已分享至群文件。
-
 - 回复关键字：3D视觉github资源汇总
 
-CV相关的会议与期刊：https://github.com/qxiaofan/awesome_3d_conference_journals
+​       CV相关的会议与期刊：https://github.com/qxiaofan/awesome_3d_conference_journals
 
-CV公司：https://github.com/qxiaofan/awesome_3d_vision_company_summary
+​      CV公司：https://github.com/qxiaofan/awesome_3d_vision_company_summary
 
-深度学习：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-deep-learning
+​      深度学习：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-deep-learning
 
-三维重建：https://github.com/qxiaofan/awesome_3d_restruction
+​       三维重建：https://github.com/qxiaofan/awesome_3d_restruction
 
-SLAM：https://github.com/qxiaofan/awesome_slam_papers
+​      SLAM：https://github.com/qxiaofan/awesome_slam_papers
 
-6D姿态估计：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-6D-pose-estimation
+​      6D姿态估计：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-6D-pose-estimation
 
-点云处理：https://github.com/qxiaofan/awesome_PointCloud_process
+​      点云处理：https://github.com/qxiaofan/awesome_PointCloud_process
 
-深度估计：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-depth-estimation
+​      深度估计：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-depth-estimation
 
-自动驾驶：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-Autopilot-algorithm
+​     自动驾驶：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-Autopilot-algorithm
 
-3D检测：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection
+​     3D检测：https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection
 
-缺陷检测:https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-defect-detection
+​     缺陷检测:https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-defect-detection
 
-3D视觉精品文章汇总:https://github.com/qxiaofan/awesome-3D-Vision-Papers
+​     3D视觉精品文章汇总:https://github.com/qxiaofan/awesome-3D-Vision-Papers
 
 - 回复关键字：CS231n
   CS231n:
@@ -347,9 +301,9 @@ SLAM：https://github.com/qxiaofan/awesome_slam_papers
   https://pan.baidu.com/s/1Wb9E6BWCJu4wZfwxm_t4TQ#list/path=%2F
    提取码：s2v2
 
-参考论文所在地址：
-链接：https://pan.baidu.com/s/1uNc57QiG4wq3kJyA8mz72Q
-提取码：v3a9
+​         参考论文所在地址：
+​       链接：https://pan.baidu.com/s/1uNc57QiG4wq3kJyA8mz72Q
+​       提取码：v3a9
 
 - 回复关键字：工业相机
   链接：https://pan.baidu.com/s/1Viq36d3HAnVASyb8LPQxDg
@@ -391,9 +345,9 @@ SLAM：https://github.com/qxiaofan/awesome_slam_papers
   https://pan.baidu.com/s/1pUtzAxZo841RZqb2z6IcHQ 
   提取码：vf3q
 
-各版本 opencv链接：
-https://pan.baidu.com/s/1D6NHlVsUjWCJ35I2Y9KVVA 
-提取码：52CV
+​       各版本 opencv链接：
+​        https://pan.baidu.com/s/1D6NHlVsUjWCJ35I2Y9KVVA 
+​        提取码：52CV
 
 - 回复关键字：colmap
   colmap论文地址：
@@ -467,9 +421,9 @@ https://pan.baidu.com/s/1D6NHlVsUjWCJ35I2Y9KVVA
   代码：https://github.com/NVlabs/neuralrgbd
   论文：https://arxiv.org/pdf/1901.02571.pdf
 
-NRGB-D:
-代码：https://github.com/NVlabs/neuralrgbd
-论文：https://arxiv.org/pdf/1901.02571.pdf
+​        NRGB-D:
+​       代码：https://github.com/NVlabs/neuralrgbd
+​      论文：https://arxiv.org/pdf/1901.02571.pdf
 
 - 回复关键字：计算机视觉应用
   参考文献下载地址：
