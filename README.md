@@ -1,29 +1,17 @@
+感谢微信公众号「3D视觉工坊」、「计算机视觉工坊」作者及嘉宾们的用心整理，以下关键字回复主要针对上述两个公众号后台进行的汇总，方便大家快速下载、学习。
 
+这里也推荐大家加入我们的[超干货的3D视觉学习社区](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=100045569&idx=1&sn=5ebf095913d1bcca58a726c12577e4c6&chksm=7bfc58354c8bd1234b6746982d99f25078b5e85551df9780385137f630e6c942862a45d56d00&mpshare=1&scene=1&srcid=1222tjyOMeZveJAgmVbSYt0o&sharer_sharetime=1608637344925&sharer_shareid=08a5efa40af25b6a57bd07cf52cdcd42&exportkey=AxYRUa7KMWT28mT%2Bd%2BB4DTk%3D&pass_ticket=wqBWA%2B1cyM3Kbhptp3Uq8mSRczSbHHrUj%2BF4%2FcQtXS6Utq1OMrAGXnquJc8TM5Mf&wx_header=0#rd)，一个超多干货的学习平台，由多位大厂算法工程师一起负责答疑、干货知识分享、视频课程录制等。
 
-- [加群](#加群)
-- [「3D视觉工坊」及「计算机视觉工坊」关键字汇总](#关键字汇总)
+以下若有链接失效，请提交issue或者联系我们小助理微信：CV_LAB，我们将定期修正完善，并不断增补资料。//2020年12月06日。
 
-<a name="加群"></a>
-
-![](imgs/公众号.jpg)
-
-「3D视觉工坊」技术交流群已经成立，目前大约有12000人，方向主要涉及3D视觉、CV&深度学习、SLAM、三维重建、点云后处理、自动驾驶、CV入门、三维测量、VR/AR、3D人脸识别、医疗影像、缺陷检测、行人重识别、目标跟踪、视觉产品落地、视觉竞赛、车牌识别、硬件选型、学术交流、求职交流、ORB-SLAM系列源码交流、深度估计等。工坊致力于干货输出，不做搬运工，为计算机视觉领域贡献自己的力量！欢迎大家一起交流成长~
-
-添加小助手微信：CV_LAB，备注学校/公司+姓名+研究方向即可加入工坊一起学习进步。
-
-![](imgs/微信.jpg)
-
-QQ群「3D视觉研习社」，群号：574432628
-
-![](imgs/QQ群.jpg)
-
-
-
-//感谢微信公众号「3D视觉工坊」、「计算机视觉工坊」作者及嘉宾们的用心整理，以下关键字回复主要针对上述两个公众号后台进行的汇总，方便大家快速下载、学习。
-
-//这里也推荐大家加入我们的[3D视觉学习社区](https://t.1yb.co/9jBm)，一个超多干货的学习平台，由多位大厂算法工程师一起负责答疑、干货知识分享、视频课程录制等。
+- [一「3D视觉工坊」及「计算机视觉工坊」关键字汇总](#关键字汇总)
+- [二 3D视觉精华github总结](#3D视觉精华github总结)
+- [三 3D视觉从入门到精通](#3D视觉从入门到精通)
+- [四 加群](#加群)
 
 <a name="关键字汇总"></a>
+
+##### 一「3D视觉工坊」及「计算机视觉工坊」关键字汇总
 
 - 回复关键字：改进的点对特征
 
@@ -34,7 +22,7 @@ QQ群「3D视觉研习社」，群号：574432628
 
 - 回复关键字：Matlab
 
-Linux下：Matlab R2016a 链接: https://pan.baidu.com/s/12aR5cC2ysg07WakwxNBt0A 提取码: fpuh 
+ Linux下：Matlab R2016a 链接: https://pan.baidu.com/s/12aR5cC2ysg07WakwxNBt0A 提取码: fpuh 
 
 Windows: Matlab2018a 链接: https://pan.baidu.com/s/1lPN5_3UZvBEG2iJX0ApxTw 提取码: it9t 
 
@@ -566,8 +554,60 @@ NRGB-D:
   Pytorch资料：链接: https://pan.baidu.com/s/1xQSv9312ETJODxdIZX69mw 提取码: 8ka3 
   
   
+  
+  <a name="3D视觉精华github总结"></a>
+  
+  ##### 二 3D视觉学习资料精华帖子：
+  
+  1、总结了3D视觉所涉及到的边边角角知识点，包括VSLAM、点云后处理、相机标定、深度学习等：https://github.com/qxiaofan/awsome-3D-Computer-Vision-Resources
+  
+  2、三维重建：https://github.com/qxiaofan/awesome_3d_restruction
+  
+  3、3D视觉相关公司汇总：https://github.com/qxiaofan/awesome_3d_vision_company_summary
+  
+  4、3D视觉入门到精通精华汇总：https://github.com/qxiaofan/awesome-3D-Computer-Vision-From-0-To-1
+  
+  5、点云后处理：https://github.com/qxiaofan/awesome_PointCloud_process
+  
+  6、3D视觉会议期刊：https://github.com/qxiaofan/awesome_3d_conference_journals
+  
+  7、Elas立体匹配算法：https://github.com/qxiaofan/awesome-Elas-demo
+  
+- <a name="3D视觉从入门到精通"></a>
 
-以上若有链接失效，请后台留言，或者联系我们小助理微信：CV_LAB，我们将定期修正完善，并不断增补资料。//2020年12月06日。
+##### 三 3D视觉从入门到精通 
+
+- 开源代码
+- 线上视频课程
+- 3D视觉github资源汇
+- 学习路线
+- 3D视觉顶会|期刊
+- 往期帖子与问答汇总
+- 汇总|项目对接与招聘信息
+- 公众号文章汇总
+- 工具与课件
+- 论文阅读
+- 彩蛋
+
+详情请戳这里->[3D视觉从入门到精通](3D/3D视觉从入门到精通.md)
+
+
+
+<a name="加群"></a>
+
+##### 四 加群
+
+![](imgs/公众号.jpg)
+
+「3D视觉工坊」技术交流群已经成立，目前大约有12000人，方向主要涉及3D视觉、CV&深度学习、SLAM、三维重建、点云后处理、自动驾驶、CV入门、三维测量、VR/AR、3D人脸识别、医疗影像、缺陷检测、行人重识别、目标跟踪、视觉产品落地、视觉竞赛、车牌识别、硬件选型、学术交流、求职交流、ORB-SLAM系列源码交流、深度估计等。工坊致力于干货输出，不做搬运工，为计算机视觉领域贡献自己的力量！欢迎大家一起交流成长~
+
+添加小助手微信：CV_LAB，备注学校/公司+姓名+研究方向即可加入工坊一起学习进步。
+
+![](imgs/微信.jpg)
+
+QQ群「3D视觉研习社」，群号：574432628
+
+![](imgs/QQ群.jpg)
 
 
 
