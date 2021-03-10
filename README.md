@@ -10,7 +10,7 @@
 
 1、[总结|VSLAM、点云后处理、相机标定、深度学习等边角知识](https://github.com/qxiaofan/awsome-3D-Computer-Vision-Resources)
 
-2、[三维重建](https://github.com/qxiaofan/awesome_3d_restruction)：
+2、[三维重建](https://github.com/qxiaofan/awesome_3d_restruction)
 
 3、[3D视觉相关公司汇总](https://github.com/qxiaofan/awesome_3d_vision_company_summary)
 
@@ -22,7 +22,9 @@
 
 8、[相机标定demo](https://github.com/qxiaofan/awesome-fisheye-pinhole-camera-calibration)
 
-8、[3D视觉入门到精通精华汇总](https://github.com/qxiaofan/awesome-3D-Computer-Vision-From-0-To-1)
+9、[3D视觉优质文章汇总](https://github.com/qxiaofan/awesome-computer-vision-papers-daily)
+
+10、[3D视觉入门到精通精华汇总](https://github.com/qxiaofan/awesome-3D-Computer-Vision-From-0-To-1)
 
 ##### 三 3D视觉从入门到精通
 
@@ -40,7 +42,9 @@
 
 详情请戳这里->[3D视觉从入门到精通](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw)
 
-##### 四 加群
+##### 四 重磅！国内首个三维重建系列视频课程，涉及SFM、立体匹配、多视图几何、结构光、单目深度估计等->[详情](https://mp.weixin.qq.com/s/WLyuE3ByntGA-Y0w8GZ29A)
+
+##### 五 加群
 
 ![](imgs/公众号.jpg)
 
