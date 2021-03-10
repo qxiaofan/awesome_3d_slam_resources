@@ -26,6 +26,8 @@
 
 10、[3D视觉入门到精通精华汇总](https://github.com/qxiaofan/awesome-3D-Computer-Vision-From-0-To-1)
 
+11、[计算机视觉系统学习必读书籍（免费领取啦~)](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=100060043&idx=2&sn=2a02843a04d195151cb40a76c445d9fa&chksm=7bfc00bf4c8b89a90ceca84a2d373feaef19b70c456e0a69e3b3b84cb42667809adb8fbfb0b3&mpshare=1&scene=1&srcid=0310yHya33Mg3TwjV9pcaLxG&sharer_sharetime=1615342114815&sharer_shareid=08a5efa40af25b6a57bd07cf52cdcd42&exportkey=Aw%2BXvOW4NlMCf3hnC45NN4o%3D&pass_ticket=Agt2XaSAqcO2duzuIhjnDnI%2Brv%2FxL7dvwHyuwQ2A0Ut4leBcK6M0EA3ApzhYe9XH&wx_header=0#rd)
+
 ##### 三 3D视觉从入门到精通
 
 - 开源代码（涉及立体匹配、结构光、缺陷检测、点云、三维重建、位姿估计、深度不全、）
