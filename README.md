@@ -2,6 +2,18 @@
 
 以下若有链接失效，请提交issue或者联系我们小助理微信：CV_LAB，我们将定期修正完善，并不断增补资料。
 
+#### 3D视觉精品课程：
+- [国内首个面向自动驾驶领域的多传感器融合标定系统学习课程](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609d2d59e4b0fe322013088d?type=3)
+
+- [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609161a1e4b071a81eb781a8?type=3)
+
+- [三维点云从入门到精通系统视频学习课程](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60929590e4b071a81eb7a173?type=3)
+ 
+- [国内首个基于结构光投影三维重建系列视频课程](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609281f5e4b0d4eb039721a1?type=3)
+
+- [相机标定从入门到精通：基本原理与实战](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_6092922ee4b09134c98de375?type=3)
+
+
 ##### 一「3D视觉工坊」及「计算机视觉工坊」关键字汇总
 
 关键字回复汇总——>请戳[这里](3D/关键字回复.md)
