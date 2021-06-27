@@ -1,6 +1,10 @@
 「3D视觉工坊」及「计算机视觉工坊」后台关键字回复汇总
 
-
+- 回复关键字：6D姿态
+```
+论文及代码地址：
+https://geometry.stanford.edu/projectsCS_CVPR2019/
+```
 
 - 回复关键字：CenterFusion
 
