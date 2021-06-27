@@ -239,92 +239,648 @@ Title: LION: Lidar-Inertial Observability-Aware Navigator for Vision-Denied Envi
 开源代码：https://github.com/svip-lab/FastMVSNet
 ```
 
-- 回复关键字：
+- 回复关键字：大疆招聘
+```
+欢迎咨询和投递简历：xiaozhi.chen@dji.com
+邮件标题格式：姓名-岗位，并在邮件正文注明岗位类型（实习/应届/社招）。
+备注：3D视觉工坊推荐
 ```
 
+- 回复关键字：FOG
 ```
-- 回复关键字：
+Title：Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusion in Unseen Adverse Weather
+&lt;img style=&quot;width:1px;height:1px;&quot;&gt;标题：CVPR2020，在雾霾等不利天气下相机、毫米波雷达等多模态传感器深度融合
+&lt;img style=&quot;width:1px;height:1px;&quot;&gt;代码：https://github.com/princeton-computational-imaging/SeeingThroughFog
 ```
+
+- 回复关键字：腾讯机器人实验室
+```
+简历投递：
+1.rolandling@tencent.com（邮件名：助理研究员实习-姓名-学校/研究员正式员工-姓名-学校）
+2.实习生请在邮件里写明希望的实习时间，时长，是否能全职实习；正式员工写明如录用可以正式到岗的时间
+备注：3D视觉工坊推荐
+```
+- 回复关键字：Python视觉实战项目
+```
+链接：https://pan.baidu.com/s/1NhoKLMzjpsE-SJNct1RxfQ 提取码：noob
+```
+
+- 回复关键字：思谋科技
+```
+内推邮箱：jiayu.chen@smartmore.com (可以加微信号：cjy094617询问面试进度，备注姓名+校招/社招，不备注不予通过)
+邮件主题和简历名为：姓名+应聘岗位+地点+校招/社招
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：Deep Learning
+```
+链接：https://pan.baidu.com/s/16yDuVfhppKreQ78e6qqD5A 
+提取码：vsdm 
+```
+
+- 回复关键字：ODMD
+```
+Title: Depth from Camera Motion and Object Detection
+
+标题：从相机运动和目标检测中获取深度（CVPR2021）
+
+论文:https://arxiv.org/abs/2103.01468
+
+代码：https://github.com/griffbr/ODMD
+```
+
+- 回复关键字：诺亚方舟实验室
+```
+联系方式：wangliangwei@huawei.com
+```
+
+- 回复关键字：视频特效
+```
+视频特效 （蚂蚁呀嘿）链接: 
+https://pan.baidu.com/s/1ozsSFsLTgv9DPVhoCHGZjA  
+密码: o36k
+```
+
+- 回复关键字：PMS
+```
+Windows版本：https://github.com/ethan-li-coding/PatchMatchStereo
+Linux版本：https://github.com/Haonan-DONG/PatchMatchStereo_linux
+```
+
+- 回复关键字：20210302
+```
+论文：https://vincentqin.gitee.io/paper-collection/20210302/2006.12567v2.pdf
+项目：https://github.com/changhao-chen/deep-learning-localization-mapping
+```
+
+- 回复关键字：MRF
+```
+标题：CVPR2021，基于内关联性的单目实时全身动作捕获，速率达到25帧/秒
+
+Title：CVPR2021, Monocular Real-time Full Body Capture with Inter-part Correlations
+
+论文：https://arxiv.org/abs/2012.06087
+
+简介：来自清华大学工作！本文提出了一种用于实时全身捕获的方法，该方法可以从单色图像估计身体和手的形状和运动以及动态3D面部模型，使用了一种新的神经网络架构，该架构以高计算效率利用了身体与手部之间的相关性，在多个数据集上达到了State-of-art！
+```
+
+- 回复关键字：TRA
+```
+Title: Track to Detect and Segment: An Online Multi-Object Tracker
+标题：跟踪目标检测和分割：在线多对象跟踪器（CVPR2021，代码开源）
+项目：https://jialianwu.com/projects/TraDeS.html
+```
+
+- 回复关键字：CVPR2021 Oral
+```
+CVPR2021 Oral论文合集
+链接：https://pan.baidu.com/s/1Cm_SUTjyfFcTZDDHIbG4eg 
+提取码：miu6
+```
+
+- 回复关键字：中科院苏州医工所
+```
+联系单位：中科院苏州医工所
+联系人：巩岩老师
+联系电话：18761983317
+简历投递邮箱：gongy@sibet.ac.cn
+薪资待遇面议
+```
+
+- 回复关键字：思无界科技
+```
+简历请发送到：liyanpeking@163.com 
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：三星招聘
+```
+简历发送至：zhihua.liu@samsung.com，jingtao.xu@samsung.com
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：CenterPoint
+```
+代码：https://github.com/tianweiy/CenterPoint
+论文：https://arxiv.org/pdf/2006.11275.pdf
+```
+
+- 回复关键字：RPR
+```
+Title: Robust Place Recognition using an Imaging Lidar
+标题：最新ICRA2021论文，使用成像激光雷达的稳健位置识别
+论文、代码：https://github.com/TixiaoShan/imaging_lidar_place_recognition
+```
+
+- 回复关键字：CDFI
+```
+Title：CDFI: Compression-Driven Network Design for Frame Interpolation
+标题：用于帧插值的压缩驱动网络设计
+代码：https://github.com/tding1/CDFI
+```
+
+- 回复关键字：CenterNet2
+```
+代码：https://github.com/xingyizhou/CenterNet2
+论文：https://arxiv.org/abs/2103.07461
+```
+
+- 回复关键字：DEFMO
+```
+Title：DeFMO: Deblurring and Shape Recovery of Fast Moving Objects
+标题：最新CVPR2021论文，DeFMO网络：快速运动物体的去模糊和形状恢复，代码开源
+论文：https://arxiv.org/abs/2012.00595
+代码：https://github.com/rozumden/DeFMO
+```
+
+- 回复关键字：LIT
+```
+标题：LiTAMIN2：基于激光雷达的超轻型SLAM，处理速度最快达到1000HZ（ICRA2021）
+
+Title：LiTAMIN2: Ultra Light LiDAR-based SLAM using Geometric Approximation applied with KL-Divergence
+
+链接：https://arxiv.org/abs/2103.00784
+```
+
+- 回复关键字：鲁棒点云
+```
+论文代码：https://github.com/fukexue/RGM.
 
 ```
 
-- 回复关键字：
+- 回复关键字：monorec
+```
+[CVPR 2021]: 动态场景单目相机半监督密集重构论文
+
+链接: http://xxx.itp.ac.cn/pdf/2011.11814.pdf
 ```
 
+- 回复关键字：PISE
 ```
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
+项目主页：http://cic.tju.edu.cn/faculty/likun/projects/PISE
+代码：https://github.com/Zhangjinso/PISE
 ```
 
+- 回复关键字：RRDL
 ```
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
+Title：Online LiDAR-SLAM for Legged Robots with Robust Registration and Deep-Learned Loop Closure
+标题：ICRA2020论文，基于CNN和点云分割的LiDAR-SLAM点云回环检测方法，用于四足ANYmal机器人导航
+链接：https://ori.ox.ac.uk/media/5601/2020icra_ramezani.pdf
 ```
 
+- 回复关键字：EGO
 ```
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-- 回复关键字：
+Title: EGO-Swarm: A Fully Autonomous and Decentralized Quadrotor Swarm System in Cluttered Environments
+标题: 最新ICRA2021论文，EGO-Swarm：在杂乱环境中的全自动分散式四旋翼群系统
+论文: https://arxiv.org/abs/2011.04183v1
+代码: https://github.com/ZJU-FAST-Lab/ego-planner-swarm
 ```
 
+- 回复关键字：北科天绘
+```
+简历投递邮箱：chenxx@isurestar.con，注明应聘岗位+姓名
+备注：3D视觉工坊推荐
 ```
 
-- 回复关键字：
+- 回复关键字：0322
+```
+文章链接：arxiv.org/pdf/2103.04273
+代码链接：https://github.com/ChenyangLEI/flash-reflection-removal
 ```
 
+- 回复关键字：SpinNet
 ```
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
+论文代码：https://github.com/QingyongHu/SpinNet
 ```
 
+- 回复关键字：OOD
 ```
-- 回复关键字：
+Title：Online Object Searching by a Humanoid Robot in an Unknown Environment
+标题：最新ICRA2021论文，人形机器人在未知环境下自主寻找物体，代码开源！
+链接：https://ieeexplore.ieee.org/document/9361266
+代码：https://github.com/TsuruMasato/OnlineObjectDetector
 ```
 
+- 回复关键字：FLOAM
 ```
-
-- 回复关键字：
-```
-
-```
-- 回复关键字：
-```
+标题：经典SLAM框架LOAM升级版！Fast LOAM，速度提升3倍！
+链接：https://github.com/wh200720041/floam
 
 ```
 
-- 回复关键字：
+- 回复关键字：qd3dt
+```
+itle：Monocular Quasi-Dense 3D Object Tracking
+标题：单目准稠密3D目标追踪，代码开源！
+链接：https://arxiv.org/abs/2103.07351
+代码：https://github.com/SysCV/qd-3dt
 ```
 
+- 回复关键字：R2LIVE
 ```
-- 回复关键字：
+Title：R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping
+标题：R2LIVE：稳健，实时，LiDar、惯性、相机的多传感器紧密耦合SLAM框架（代码开源）
+链接：https://arxiv.org/abs/2102.12400
+代码：https://github.com/hku-mars/r2live
 ```
+
+- 回复关键字：苏州挚途
+```
+简历投递至：zhangbinggang@zhito.com
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：PVST
+```
+Title：PVStereo: Pyramid Voting Module for End-to-End Self-Supervised Stereo Matching
+标题：最新ICRA2021论文，PVStereo: 基于金字塔投票模块的端到端的自监督立体匹配
+论文：https://arxiv.org/abs/2103.07094
+```
+
+- 回复关键字：相机定位
+```
+论文地址：https://arxiv.org/pdf/2103.16792.pdf
+Code开源：https://github.com/Tangshitao/DenseScene-Matching
+```
+
+- 回复关键字：NeX
+```
+Title：NeX: Real-time View Synthesis with Neural Basis Expansion
+标题：CVPR2021论文，NEX：基于神经基扩展的实时视图合成，速度快1000倍，代码开源！
+链接：https://arxiv.org/pdf/2103.05606.pdf
+代码：https://github.com/nex-mpi/nex-code/
+```
+
+- 回复关键字：华为自动驾驶
+```
+简历投递：liyaoyi@huawei.com
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：生成3D场景
+```
+链接:https://pan.baidu.com/s/1J63PSdeARGgIktFtKSdgew 
+ 密码:4dq9
+```
+
+- 回复关键字：FFB
+```
+Title：FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation
+标题：最新CVPR2021论文，FFB6D：用于6D位姿估计的全流双向融合网络
+论文：https://arxiv.org/abs/2103.02242
+代码：https://github.com/ethnhe/FFB6D
+```
+
+- 回复关键字：rosbag
+```
+代码仓库：https://github.com/AbangLZU/multi_lidar_calibration
+rosbag
+
+下载链接：https://pan.baidu.com/s/1Ny3Ji9aF1ZTjgklhxPvDbg
+
+提取码: pemc
+```
+
+- 回复关键字：GNMS
+```
+标题：GrooMeD-NMS：用于单目3D目标检测的分组微分NMS，代码开源！
+Title：GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection
+链接：https://arxiv.org/pdf/2103.17202.pdf
+代码：https://github.com/abhi1kumar/groomed_nms/
+```
+
+- 回复关键字：孚晞科技
+```
+简历投递：
+邮箱：t0000814@tianjizn.com
+电话：0769-22892095转3109顾小姐
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：GBTE
+```
+Title：Graph-Based Topological Exploration Planning in Large-Scale 3D Environments (ICRA 2021)
+标题：无人机探洞！大规模三维环境中无人机基于图的拓扑探索规划（ICRA2021）
+链接：https://arxiv.org/abs/2103.16829
+```
+
+- 回复关键字：格灵研究院
+```
+投递邮箱：heqiaoli@szglint.com
+邮箱主题：3D视觉工坊推荐+岗位名称
+```
+
+- 回复关键字：MVSNet网络
+```
+开源代码(tensorflow)：https://github.com/YoYo000/MVSNet
+开源代码(PyTorch)：https://github.com/XYZ-qiyh/MVSNet_pytorch
+```
+
+- 回复关键字：SSL
+```
+Title：SSL_SLAM: Lightweight 3-D Localization and Mapping for Solid-State LiDAR
+
+标题：SSL_SLAM: 使用固态雷达的轻量级3D定位和映射（代码开源）
+
+链接：https://arxiv.org/abs/2102.03800
+
+代码：https://github.com/wh200720041/ssl_slam
+```
+
+- 回复关键字：LVI-SAM
+```
+代码开源：github.com/TixiaoShan/LVI-SAM
 
 ```
 
-- 回复关键字：
+- 回复关键字：大疆车载
+```
+简历投递方式
+欢迎咨询和投递简历：xiaozhi.chen@dji.com
+邮件标题格式：姓名-岗位，并在邮件正文注明岗位类型（社招/应届/实习）。
 ```
 
+- 回复关键字：PHOSA
+```
+项目网址：https://jasonyzhang.com/phosa/
+论文网址：https://arxiv.org/pdf/2007.15649.pdf
 ```
 
+- 回复关键字：OMNI
+```
+Title：OmniPhotos: Casual 360° VR Photography
+标题：OmniPhotos：360°VR全景照片生成，目前最快，代码开源
+论文：https://richardt.name/publications/omniphotos/OmniPhotos-BertelEtAl-SIGAsia2020-paper.pdf
+代码：https://github.com/cr333/OmniPhotos
+项目：https://richardt.name/publications/omniphotos/
+```
+
+- 回复关键字：PSN
+```
+Title：PlaneSegNet: Fast and Robust Plane Estimation Using a Single-stage Instance Segmentation CNN
+标题：PlaneSegNet：使用单阶段实例分割CNN的快速鲁棒平面估计（CVPR2021）
+链接：https://arxiv.org/abs/2103.15428
+```
+
+- 回复关键字：PAConv
+```
+论文链接：https://arxiv.org/abs/2103.14635
+代码链接：https://github.com/CVMI-Lab/PAConv
+```
+
+- 回复关键字：colmap
+```
+colmap论文地址：
+https://openaccess.thecvf.com/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html
+```
+
+- 回复关键字：ECML
+```
+Title：Extrinsic Calibration of Multiple LiDARs of Small FoV in Targetless Environments
+标题：自动驾驶中多个小视场固态激光雷达不依赖参照物的外参标定（代码即将开源）
+论文：https://ieeexplore.IEEE.org/document/9361153
+代码：https://github.com/hku-mars/multi_lidar_calib
+解读：https://zhuanlan.zhihu.com/p/353243916
+```
+
+- 回复关键字：PREDATOR
+```
+论文代码：https://github.com/ShengyuH/OverlapPredator
+```
+
+- 回复关键字：ICRA  SLAM
+```
+链接：https://pan.baidu.com/s/1JUEGAl94qnRQLWKsTrSjNA
+提取码：4xa8
+```
+
+- 回复关键字：华睿
+```
+联系方式：wpf2010113116@163.com
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：蔚来汽车
+```
+简历投递：
+1.  命名格式“多传感器标定算法实习生-姓名-联系方式-学校-毕业年份”
+2.  投递邮箱：ruonan.liu@nio.com
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：DLAQ
+```
+
+Title：Dynamic Landing of an Autonomous Quadrotor on a Moving Platform in Turbulent Wind Conditions
+
+标题：ICRA2020，多旋翼无人机移动平台快速自动降落算法，航母可用！出自麻省理工航天控制实验室
+论文：http://www.lewissoft.com/pdf/ICRA2020/1956.pdf
+```
+
+- 回复关键字：kimera
+```
+Title：Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping
+标题：MIT工作：Kimera，新的实时度量语义的开源SLAM系统（ICRA2020）
+论文：https://arxiv.org/abs/1910.02490
+代码：https://github.com/MIT-SPARK/Kimera
+```
+
+- 回复关键字：CenterPoint
+```
+直播地址：https://app0S6nfQRG6303.h5.xiaoeknow.com/v2/course/alive/l_6096a173e4b09890f0ea05fe?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=&amp;type=2
+
+CenterPoint：三维点云目标检测算法梳理及最新进展（CVPR2021）
+```
+
+- 回复关键字：FDVD
+```
+Title：FAST-Dynamic-Vision: Detection and Tracking Dynamic Objects with Event and Depth Sensing
+
+标题：有了这个算法，你的无人机再也不怕撞鸟了，IROS2021最新论文，代码开源！
+
+链接：https://arxiv.org/abs/2103.05903v2
+
+代码：https://github.com/ZJU-FAST-Lab/FAST-Dynamic-Vision
+```
+
+- 回复关键字：pixelNeRF
+```
+项目地址：https://alexyu.net/pixelnerf/
+论文地址：https://arxiv.org/pdf/2012.02190.pdf
+```
+
+- 回复关键字：ERLE
+```
+标题：ICRA2021，基于 LiDAR 的高效、鲁棒深度学习端到端的自动驾驶导航控制，大幅减少接管次数（代码开源）
+Title：Efficient and Robust LiDAR-Based End-to-End Navigation
+论文：https://arxiv.org/abs/2105.09932
+代码：https://le2ed.mit.edu/
+地址：https://www.youtube.com/watch?v=5ZyhHxjgUGo
+```
+
+- 回复关键字：OMNI
+```
+Title：OmniDet: Surround View Cameras based Multi-task Visual Perception Network for Autonomous Driving
+标题：ICRA2021，OmniDet：用于自动驾驶的基于环视摄像头的多任务视觉感知网络
+链接：https://arxiv.org/abs/2102.07448
+代码：https://github.com/valeoai/WoodScape
+解读：https://mp.weixin.qq.com/s/5mqOk7gAmOiIGB7qCo3rJQ
+```
+
+- 回复关键字：Intensity-SLAM
+```
+论文地址：https://ieeexplore.ieee.org/document/9354903
+代码地址：https://github.com/wh200720041/intensity_slam
+```
+
+- 回复关键字：F4D
+```
+标题：Function4D: 从稀疏的消费级RGB-D相机中精确重建人体动作（CVPR2021）
+Title：Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors
+链接：http://www.liuyebin.com/Function4D/Function4D.html
+```
+
+- 回复关键字：Inuitive
+```
+联系方式：panqingyi@inuchip.com
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：单目自监督
+```
+代码地址：https://github.com/nvlabs/umr
+论文地址：https://arxiv.org/pdf/2003.06473.pdf
+```
+
+- 回复关键字：NFRA
+```
+标题：CVPR2021，NormalFusion：实时高分辨率 RGB-D表面重建
+Title：NormalFusion: Real-Time Acquisition of Surface Normals for High-Resolution RGB-D Scanning
+链接：http://www.minhkim.org/cvpr2021p3/cvpr2021-normalfusion-main-paper.pdf
+```
+
+- 回复关键字：3DVideo
+```
+标题：CVPR2021，不需要训练数据，CNN就可以稳定视频？不可思议！
+Title：3D Video Stabilization with Depth Estimation by CNN-based Optimization
+链接：https://drive.google.com/file/d/1vTalKtMz2VEowUg0Cb7nW3pzQhUWDCLA/view
+代码：https://yaochih.github.io/deep3d-stabilizer.io/
+```
+
+- 回复关键字：蔚来汽车Intern
+```
+【简历投递】
+1. 命名格式“感知算法实习生-姓名-联系方式-学校-毕业年份”
+2. 投递邮箱：ruonan.liu@nio.com
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：VSNET
+```
+Title：VS-Net: Voting with Segmentation for Visual Localization (CVPR 2021)
+标题：CVPR2021论文，VS-Net：基于语义投票的视觉定位，代码即将开源！
+链接：https://arxiv.org/abs/2105.10886
+```
+
+- 回复关键字：AVPS
+```
+Title：AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot
+
+标题：AVP-SLAM：停车场自动泊车SLAM框架，采用停车线等作为定位标志，IROS2020
+
+论文：https://arxiv.org/abs/2007.01813
+```
+
+- 回复关键字：LiTAMIN2
+```
+视频链接：https://www.bilibili.com/video/BV1yp4y1h792/
+论文链接： https://arxiv.org/pdf/2103.00784v1.pdf
+```
+
+- 回复关键字：PESC
+```
+Title：Pixel-level Extrinsic Self Calibration of High Resolution LiDAR and Camera in Targetless Environment
+
+标题：代码开源，不使用外部标定物的高分辨率LiDAR和相机的像素级外部自标定
+
+链接：https://arxiv.org/abs/2103.01627
+
+代码：https://github.com/hku-mars/livox_camera_calib
+```
+
+- 回复关键字：AOGTS
+```
+标题：强化学习来学习超跑自动驾驶，跑得比人还快！老司机了，人类又在一个领域输给了AI，ICRA2021
+
+Title：Autonomous Overtaking in Gran Turismo Sport Using Curriculum Reinforcement Learning
+
+论文：很抱歉，由于链接检查原因，无法附送，请按标题搜索论文地址
+```
+
+- 回复关键字：DRO
+```
+论文链接:https://arxiv.org/abs/2103.13201
+代码链接:https://github.com/aliyun/dro-sfm
+```
+
+- 回复关键字：美的AI
+```
+联系方式：meijy3@midea.com and liys3@midea.com
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：苏州振畅
+```
+请发送个人简历至：yangwenhao@zctek.cc
+并请注明所申请职位和入职时间，我们会在一周之内回复你
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：中集集团
+```
+韦先生  
+电话：17520478966  
+邮箱：zhuoguang,wei@cimc.com
+```
+
+- 回复关键字：逆相机法
+```
+链接：https://pan.baidu.com/s/1SaYMPHj3Mh_A9mQIGx-R8g
+提取码：803z
+```
+
+- 回复关键字：二维图像GAN
+```
+原文链接：https://openreview.net/pdf?id=FGqiDsBUKL0
+代码地址：https://github.com/XingangPan/GAN2Shape
+```
+
+- 回复关键字：RSSS
+```
+标题：CVPR2021，基于多视点鱼眼图像的实时球面扫描立体成像
+Title：Real-Time Sphere Sweeping Stereo from Multiview Fisheye Images（CVPR2021）
+链接：http://www.minhkim.org/cvpr2021p1/cvpr21-sphere-sweeping.pdf
+```
+
+- 回复关键字：思谋科技招聘
+```
+内推邮箱：jiayu.chen@smartmore.com，可以加微信cjy094617(不备注目的不予通过)
+邮件主题和简历名为：姓名+应聘岗位+地点+校招/社招
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：导航系统
+```
+论文地址： https://pan.baidu.com/s/1YutBKtSNDNe8FN8BX8Untw 提取码：wc0k
+视频地址：https://mp.weixin.qq.com/s/9dPmQ6pd8-vRg8NFv_nNPA
+```
+
+- 回复关键字：kangle
+```
+DIY一条自己的机械狗，硬件图纸开源
+链接：https://pan.baidu.com/s/1fRzGUFes1-Db6G0NlLIkMg 
+提取码：4kac
+```
 
 
 - 回复关键字：6D姿态
