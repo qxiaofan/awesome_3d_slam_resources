@@ -1,5 +1,293 @@
 「3D视觉工坊」及「计算机视觉工坊」后台关键字回复汇总
 
+- 回复关键字：ENVGPU
+```
+GPU编程之环境搭建：Ubuntu16.04+CUDA9.0+cuDNN7.6.5+Clion
+链接：https://pan.baidu.com/s/1m8BtYqluwnObfaKZRYs9-w
+提取码：gn4t
+```
+
+- 回复关键字：3DONE
+```
+Title: One Shot 3D Photography
+标题：一张照片3D摄影
+链接：https://arxiv.org/abs/2008.12298
+代码：https://github.com/facebookresearch/one_shot_3d_photography
+项目：https://facebookresearch.github.io/one_shot_3d_photography/
+介绍：
+来自Facebook的最新研究，使用单张图像获取3D图片，这次算法真的非常接近实际应用了，拍一张照片，基于移动端优化过的神经网络，在手机端处理时间只需要几秒钟，就可以直接生成3D图片，效果惊艳（代码开源，ACM SIGGRAPH 2020）
+```
+
+- 回复关键字：Geo2019
+```
+标题：使用卫星地图辅助的基于图像的地理定位算法
+Title：IJCV2019: Image-Based Geo-Localization Using Satellite Imagery
+链接：https://arxiv.org/abs/1903.00159v3
+```
+
+- 回复关键字：普渡科技
+```
+联系方式:
+13752325197（微信同号） 陈生（深圳）
+13541162666（微信同号） 刘生（成都）
+```
+
+- 回复关键字：RASLAM
+```
+Title：RadarSLAM: Radar based Large-Scale SLAM in ALL Weathers
+标题：出自英国赫瑞-瓦特大学爱丁堡机器人技术中心，发表在最新IROS 2020上，RadarSLAM：在恶劣天气环境下基于纯雷达的SLAM解决方案
+项目：http://pro.hw.ac.uk/research/radarslam/
+论文：https://arxiv.org/abs/2005.02198
+数据集（恶劣天气）：http://pro.hw.ac.uk/radiate/
+```
+
+- 回复关键字：灵西
+```
+简历投递邮箱：wangzhishun@linxrobot.com
+联系人电话：王志顺13675656551
+备注：3D视觉工坊推荐
+```
+- 回复关键字：P-MVSNet
+```
+论文链接：
+https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_P-MVSNet_Learning_Patch-Wise_Matching_Confidence_Aggregation_for_Multi-View_Stereo_ICCV_2019_paper.pdf
+```
+
+- 回复关键字：ASC
+```
+标题: 最新来自瑞士苏黎世联邦理工学院脚踩一对风火轮能跑能跳的轮式机器人Ascento 2，论文发表在 ICRA 2020 上！
+
+Title: LQR-Assisted Whole-Body Control of a Wheeled Bipedal Robot with Kinematic Loops
+
+链接：https://www.ascento.ethz.ch/wp-content/uploads/2020/05/LQR_Assisted_Whole_Body_Control_for_a_Wheeled_Bipedal_Robot_with.pdf
+```
+
+- 回复关键字：FDD
+```
+标题：经典3d视觉论文回顾，Facebook用『SLAM+实时光流』实现AR真实遮挡效果，发表在顶刊 ACM Transactions on Graphic  2018，代码开源
+Title：Fast Depth Densification for Occlusion-aware Augmented Reality
+项目：https://homes.cs.washington.edu/~holynski/publications/occlusion/index.html
+论文：https://homes.cs.washington.edu/~holynski/publications/occlusion_sa2018.pdf
+代码：https://github.com/facebookresearch/AR-Depth
+```
+
+- 回复关键字：三维物体
+```
+论文地址：
+https://moscow.sci-hub.se/2490/d000c0bb4ef2d65d339a5d547b25b68e/yulanguo2014.pdf#view=FitH
+```
+
+- 回复关键字：字节跳动三维视觉
+```
+简历邮箱：guohengkai@bytedance.com
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+
+
 - 回复关键字：6D姿态
 ```
 论文及代码地址：
