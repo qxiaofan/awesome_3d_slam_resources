@@ -1836,10 +1836,10 @@ paper: https://arxiv.org/abs/2003.10432
 
 - 回复关键字：colmap
   
-  ```
+```
 colmap论文地址：
   https://openaccess.thecvf.com/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html
-  ```
+```
   
   
   
@@ -1853,10 +1853,10 @@ colmap论文地址：
 
 - 回复关键字：图像配准算法
   
-  ```
+```
 论文下载地址：https://dacemirror.sci-hub.se/journal-article/22b507c65c1a2b127afa06ed312b828b/guo2014.pdf#view=Fit
-  或者百度网盘下载：链接：https://pan.baidu.com/s/1YF5wIJ6KpjXJDoROv6lcFg 提取码：ob0a 
-  ```
+或者百度网盘下载：链接：https://pan.baidu.com/s/1YF5wIJ6KpjXJDoROv6lcFg 提取码：ob0a 
+```
   
   
   
@@ -1870,177 +1870,177 @@ colmap论文地址：
 
 - 回复关键字：HP-2019
   
-  ```
+```
 链接：https://arxiv.org/abs/1901.03798
-  代码：https://github.com/chanyn/3Dpose_ssl.git
-  ```
+代码：https://github.com/chanyn/3Dpose_ssl.git
+```
   
   
   
 - 回复关键字：MoreFusion
   
-  ```
-  论文：<MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion>
-  链接：https://arxiv.org/abs/2004.04336
+```
+论文：<MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion>
+链接：https://arxiv.org/abs/2004.04336
 代码：暂未开源
-  推荐：https://github.com/j96w/DenseFusion（其它工作）
-  ```
+推荐：https://github.com/j96w/DenseFusion（其它工作）
+```
   
   
   
 - 回复关键字：PackNet
   
 ```
-  代码：https://github.com/tri-ml/packnet-sfm
+代码：https://github.com/tri-ml/packnet-sfm
 ```
 
-  
+
 
 - 回复关键字：ECCV-PIV
   
-  ```
+```
 链接：https://pan.baidu.com/s/1o1gTq1u67rG3UT9UDfIycA 
-  提取码：2e73
-  ```
+提取码：2e73
+```
   
   
   
 - 回复关键字：RPM-NET
   
-  ```
+```
 Paper: https://arxiv.org/abs/2003.13479
-  Code: https://github.com/yewzijian/RPMNet
-  ```
+Code: https://github.com/yewzijian/RPMNet
+```
   
   
   
 - 回复关键字：CVPR2020-CRN
   
-  ```
+```
 论文：https://arxiv.org/abs/2004.03327
-  代码：https://github.com/xiaogangw/cascaded-point-completion
-  ```
+代码：https://github.com/xiaogangw/cascaded-point-completion
+```
   
   
   
 - 回复关键字：IROS2019-SLAM
   
-  ```
+```
 链接：https://pan.baidu.com/s/1D48p_XEhbYb6emBIVmjX8w 
-  提取码：2v62
-  ```
+提取码：2v62
+```
   
   
   
 - 回复关键字：ECCV2020-FEG
   
-  ```
-  Title：Flow-edge Guided Video Completion（ECCV2020）
-  标题：最新ECCV2020论文：基于光流的视频修复算法，效果大幅超越之前算法！（代码开源）
+```
+Title：Flow-edge Guided Video Completion（ECCV2020）
+标题：最新ECCV2020论文：基于光流的视频修复算法，效果大幅超越之前算法！（代码开源）
 论文：https://arxiv.org/abs/2009.01835
-  代码：https://github.com/vt-vl-lab/FGVC
-  ```
+代码：https://github.com/vt-vl-lab/FGVC
+```
   
   
   
 - 回复关键字：loam_livox
   
-  ```
+```
 代码下载地址：
-  https://github.com/hku-mars/loam_livox
-  ```
+https://github.com/hku-mars/loam_livox
+```
   
   
   
 - 回复关键字：vid2vid
   
-  ```
-  标题：Video-to-Video Synthesis
+```
+标题：Video-to-Video Synthesis
 论文：https://arxiv.org/pdf/1808.06601.pdf
-  代码：https://github.com/NVIDIA/vid2vid
-  ```
+代码：https://github.com/NVIDIA/vid2vid
+```
   
   
   
 - 关键字：BANet
   
-  ```
+```
 论文下载：https://arxiv.org/pdf/2004.14582
-  论文代码：https://github.com/zzhanghub/bianet (等待上传)
-  ```
+论文代码：https://github.com/zzhanghub/bianet (等待上传)
+```
   
   
   
 - 回复关键字：IROS2019-Re
   
-  ```
-  论文：IROS'19-ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals
+```
+论文：IROS'19-ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals
 链接：https://arxiv.org/abs/1905.02082v3
-  代码：https://github.com/PRBonn/refusion
-  ```
+代码：https://github.com/PRBonn/refusion
+```
   
   
   
 - 回复关键字：NRGB-D, MEGA
   
-  ```
-  NRGB-D:
-    代码：https://github.com/NVlabs/neuralrgbd
-    论文：https://arxiv.org/pdf/1901.02571.pdf
+```
+NRGB-D:
+代码：https://github.com/NVlabs/neuralrgbd
+论文：https://arxiv.org/pdf/1901.02571.pdf
   
-  NRGB-D:
-  代码：https://github.com/NVlabs/neuralrgbd
-  论文：https://arxiv.org/pdf/1901.02571.pdf
-  ```
+NRGB-D:
+代码：https://github.com/NVlabs/neuralrgbd
+论文：https://arxiv.org/pdf/1901.02571.pdf
+```
   
   
 
 - 回复关键字：计算机视觉应用
   
-  ```
-  参考文献下载地址：
+```
+参考文献下载地址：
 链接：https://pan.baidu.com/s/1l1E5GwXNscbCoVD0mWcoKA 
-  提取码：yghz
-  ```
+提取码：yghz
+```
   
   
   
 - 回复关键字：3DP
   
-  ```
-  标题：3D Photography using Context-aware Layered Depth Inpainting
-  链接：https://arxiv.org/abs/2004.04727v3
-  代码：https://github.com/vt-vl-lab/3d-photo-inpainting
+```
+标题：3D Photography using Context-aware Layered Depth Inpainting
+链接：https://arxiv.org/abs/2004.04727v3
+代码：https://github.com/vt-vl-lab/3d-photo-inpainting
 工程：https://shihmengli.github.io/3D-Photo-Inpainting/
-  解读：https://zhuanlan.zhihu.com/p/133289298
-  ```
+解读：https://zhuanlan.zhihu.com/p/133289298
+```
   
   
   
 - 回复关键字：CVDE
   
-  ```
-  标题：Consistent Video Depth Estimation
-  论文：https://arxiv.org/abs/2004.15021v2
+```
+标题：Consistent Video Depth Estimation
+论文：https://arxiv.org/abs/2004.15021v2
 代码：https://github.com/facebookresearch/consistent_depth
-  解读：https://www.jianshu.com/p/c9e1e8a81c4f
-  ```
+解读：https://www.jianshu.com/p/c9e1e8a81c4f
+```
   
   
   
 - 回复关键字： 移动最小二乘法
   
-  ```
+```
 链接：https://pan.baidu.com/s/1DFdxdRlGqXLfdHjbVt2jsg 
-  提取码：bp32
-  ```
+提取码：bp32
+```
   
   
   
 - 回复关键字：9076
   
 ```
-  第三版164页手推笔记:链接: https://pan.baidu.com/s/1-G-dq6FAA7zyLbKW0ZWmbw 提取码: 8jkj
+第三版164页手推笔记:链接: https://pan.baidu.com/s/1-G-dq6FAA7zyLbKW0ZWmbw 提取码: 8jkj
 ```
 
   
@@ -2048,7 +2048,7 @@ Paper: https://arxiv.org/abs/2003.13479
 - 回复关键字：李中伟
   
 ```
-  链接：https://pan.baidu.com/s/1bqUuyT0McrzoZtiil5SUBQ 提取码：lzw3
+链接：https://pan.baidu.com/s/1bqUuyT0McrzoZtiil5SUBQ 提取码：lzw3
 ```
 
   
@@ -2056,102 +2056,90 @@ Paper: https://arxiv.org/abs/2003.13479
 - 回复关键字：SYOLO
   
 ```
-  链接: https://pan.baidu.com/s/19TTwrvNEHBpkU8c9m99y7w 提取码: bcms
+链接: https://pan.baidu.com/s/19TTwrvNEHBpkU8c9m99y7w 提取码: bcms
 ```
 
   
 
 - 回复关键字：全景视频超分
   
-  ```
+```
 论文链接： https://arxiv.org/pdf/2008.10320.pdf](https://arxiv.org/pdf/2008.10320.pdf
-  参考代码：https://github.com/lovepiano/SMFN_For_360VSR](https://github.com/lovepiano/SMFN_For_360VSR
-  ```
-  
-  
-  
-- 回复关键字：nanodet
-  
+参考代码：https://github.com/lovepiano/SMFN_For_360VSR](https://github.com/lovepiano/SMFN_For_360VSR
 ```
-  nanodet 代码下载链接：链接: https://pan.baidu.com/s/1QJ8SttTxGy4IVc0hzTymgQ 提取码: mget
-```
-
   
+  
+- 回复关键字：nanodet  
+```
+nanodet 代码下载链接：链接: https://pan.baidu.com/s/1QJ8SttTxGy4IVc0hzTymgQ 提取码: mget
+```
 
 - 回复关键字：PVA-MVSNet
   
 ```
-  论文链接：https://arxiv.org/pdf/1912.03001.pdf
+论文链接：https://arxiv.org/pdf/1912.03001.pdf
 ```
 
-  
-
+ 
 - 回复关键字：ICCV2019
   
 ```
-  论文地址：https://node1.chrischoy.org/data/publications/fcgf/fcgf.pdf代码地址：https://github.com/chrischoy/FCGF
+论文地址：https://node1.chrischoy.org/data/publications/fcgf/fcgf.pdf代码地址：https://github.com/chrischoy/FCGF
 ```
 
   
 
-- 回复关键字：车道线检测
-  
+- 回复关键字：车道线检测  
 ```
-  代码：https://github.com/cfzd/Ultra-Fast-Lane-Detection
+代码：https://github.com/cfzd/Ultra-Fast-Lane-Detection
 ```
 
-  
 
-- 回复关键字：mvsnet
-  mvsnet测试数据集下载
-  
+- 回复关键字：mvsnet  
 ```
-  链接: https://pan.baidu.com/s/1wqXXpNmibTO5vH7WXZqpNQ 提取码: 5hw4
+mvsnet测试数据集下载  
+链接: https://pan.baidu.com/s/1wqXXpNmibTO5vH7WXZqpNQ 提取码: 5hw4
 ```
 
   
 
 - 回复关键字：SLAM学习资料
-  
-  ```
+```
 链接：https://pan.baidu.com/s/1HkwKJFmakvdjGIKdO51NCQ  
-  提取码：n4an
-  ```
-  
+提取码：n4an
+```
   
   
 - 回复关键字：oldphoto
   
 ```
-  http://xxx.itp.ac.cn/pdf/2004.09484.pdf
+http://xxx.itp.ac.cn/pdf/2004.09484.pdf
 ```
 
-  
 
 - 回复关键字：	语音导航
   
-  ```
-  论文：https://arxiv.org/pdf/2004.02857.pdf
+```
+论文：https://arxiv.org/pdf/2004.02857.pdf
 项目： https://jacobkrantz.github.io/vlnce/?fbclid=IwAR2VO1jwjaq4Uydz2O25ZaLXVFjoD46QirYnW1zNeNAJyNkleA0KS_PDBrE
-  代码： https://github.com/jacobkrantz/VLN-CE
-  ```
+代码： https://github.com/jacobkrantz/VLN-CE
+```
   
   
   
 - 回复关键字：	三维重建项目
   
-  ```
-  电话：13810402085（同微信）
+```
+电话：13810402085（同微信）
 邮箱：121056759 @qq.com
-  联系时，请备注：3D视觉工坊推荐，将被优先考虑。
-  ```
+```
   
   
   
 - 回复关键字：影响因子
   
 ```
-  链接：https://pan.baidu.com/s/1qW_vkzCXo6Gt-4QFiwPvzg 提取码：rnr7
+链接：https://pan.baidu.com/s/1qW_vkzCXo6Gt-4QFiwPvzg 提取码：rnr7
 ```
 
   
@@ -2159,24 +2147,23 @@ Paper: https://arxiv.org/abs/2003.13479
 - 回复关键字：CVPR2020
   
 ```
-  链接：https://pan.baidu.com/s/1s7cDUDGKVlOlmHQjk9pIzg 提取码：gwvg
+链接：https://pan.baidu.com/s/1s7cDUDGKVlOlmHQjk9pIzg 提取码：gwvg
 ```
 
   
 
-- 回复关键字：机器学习
-  
-  ```
+- 回复关键字：机器学习  
+```
 链接：https://pan.baidu.com/s/1lGINq-ynw9mzZW4TUZGfJA  
-  提取码：an48
-  ```
+提取码：an48
+```
   
   
   
 - 回复关键字：123
 
-  ```
-  Pytorch资料：链接: https://pan.baidu.com/s/1xQSv9312ETJODxdIZX69mw 提取码: 8ka3 
-  ```
+```
+Pytorch资料：链接: https://pan.baidu.com/s/1xQSv9312ETJODxdIZX69mw 提取码: 8ka3 
+```
   
   
