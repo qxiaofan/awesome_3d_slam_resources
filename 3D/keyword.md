@@ -83,121 +83,160 @@ https://moscow.sci-hub.se/2490/d000c0bb4ef2d65d339a5d547b25b68e/yulanguo2014.pdf
 备注：3D视觉工坊推荐
 ```
 
-- 回复关键字：
+- 回复关键字：RGB检测
+```
+论文下载：https://openaccess.thecvf.com/content/ACCV2020/papers/Yan_SDCNet_Size_Divide_and_Conquer_Network_for_Salient_Object_Detection_ACCV_2020_paper.pdf
+论文代码：https://github.com/Sssssbo/SDCNet (等待上传)
+```
+- 回复关键字：Speech2Face
+```
+项目地址：https://speech2face.github.io/
 ```
 
+- 回复关键字：AMZ
 ```
-- 回复关键字：
+Title：Learning-based Model Predictive Control for Autonomous Racing
+标题：基于学习的自动驾驶赛车控制
+论文：https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/351561/08754713.pdf?sequence=1&amp;isAllowed=y
 ```
-
+- 回复关键字：地图管理
 ```
-
-- 回复关键字：
-```
-
-```
-- 回复关键字：
-```
-
+论文打包下载： https://pan.baidu.com/s/1kRX7s5GIzOjSAy1eAhi2HQ
+提取码: s5ak
 ```
 
-- 回复关键字：
+- 回复关键字：ROBC
+```
+Title：RoboCut: Hot-wire Cutting with Robot-controlled Flexible Rods
+标题：机器人控制的自动热线切割
+链接：https://n.ethz.ch/~sduenser/content/papers/robocut/paper.pdf
+来源：SIGGRAPH 2020、ACM Transactions on Graphics
+```
+- 回复关键字：EF-Net
+```
+论文下载：https://www.sciencedirect.com/science/article/abs/pii/S0031320320305434
 ```
 
+- 回复关键字：Bundle Adjustment
 ```
-- 回复关键字：
+本文所有例子代码地址：
+https://github.com/qxiaofan/awesome-BA-exercise
 ```
-
+- 回复关键字：缺陷检测
 ```
-
-- 回复关键字：
-```
-
-```
-- 回复关键字：
+链接：https://pan.baidu.com/s/1V_aHJIgW-lbppQc0UAU_wA
+ 提取码：y20u
 ```
 
+- 回复关键字：BlendedMVS
+```
+数据集和预训练模型：https://github.com/YoYo000/BlendedMVS
+```
+- 回复关键字：3D鸟类重建
+```
+代码链接：https://github.com/marcbadger/avian-mesh
+项目链接：https://marcbadger.github.io/avian-mesh
+论文链接：https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630001.pdf
 ```
 
-- 回复关键字：
+- 回复关键字：图像分割
+```
+2020年CV综述论文分方向整理-图像分割篇
+链接:https://pan.baidu.com/s/1hxAu3Nlu7GAyTRIme4bQ6g  
+密码:y9ji
+```
+- 回复关键字：UMM
+```
+标题：来自牛津大学，统一的多模态地标跟踪，用于紧密耦合激光雷达-视觉-惯性里程计
+Title：Unified Multi-Modal Landmark Tracking for Tightly Coupled Lidar-Visual-Inertial Odometry
+链接：https://arxiv.org/abs/2011.06838
 ```
 
+- 回复关键字：缺陷检测方法
 ```
-- 回复关键字：
+链接：https://pan.baidu.com/s/1V_aHJIgW-lbppQc0UAU_wA 
+提取码：y20u
 ```
-
+- 回复关键字：RepVGG
 ```
-
-- 回复关键字：
-```
-
-```
-- 回复关键字：
+代码地址: https://github.com/DingXiaoH/RepVGG
 ```
 
+- 回复关键字：目标检测
 ```
 
-- 回复关键字：
+大盘点 | 2020年5篇目标检测算法最佳综述链接:
+https://pan.baidu.com/s/1IRZeDN4P8TjWu2MJIc261A 密码:3f90
 ```
 
+- 回复关键字：RGB图像重建
 ```
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
+项目地址：https://smalr.is.tue.mpg.de/
+论文地址：http://files.is.tue.mpg.de/black/papers/zuffiCVPR2018.pdf
 ```
 
+- 回复关键字：Camera​答案
 ```
-- 回复关键字：
+参考答案地址：
+https://github.com/ethan-li-coding/StereoV3DCode
 ```
-
+- 回复关键字：坐标系与相机参数
 ```
-
-- 回复关键字：
-```
-
-```
-- 回复关键字：
+代码地址：StereoV3DCode：https://github.com/ethan-li-coding/StereoV3DCode
 ```
 
+- 回复关键字：字节跳动实习生
+```
+联系人：赵女士
+联系电话：13436351487
+投递邮箱: zhaoyujie.9938@bytedance.com
+邮件命名:岗位名称+实习时长+到岗时间 or https://job.toutiao.com/s/JTDGsaR
+内推码：P9GHC62
 ```
 
-- 回复关键字：
+- 回复关键字：医学影像
+```
+链接:https://pan.baidu.com/s/1xvyglXmry25XDUdarWKeDA  
+密码:mnbu
 ```
 
-```
-- 回复关键字：
-```
-
+- 回复关键字：VOR
 ```
 
-- 回复关键字：
+标题：最新ICRA2020论文：视觉里程计回顾：什么特征应该被学习？
+Title: Visual Odometry Revisited: What Should Be Learnt?
+论文：https://arxiv.org/pdf/1909.09803.pdf
+代码：https://github.com/Huangying-Zhan/DF-VO
 ```
 
+- 回复关键字：U-CMR
 ```
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
+项目链接：https://shubham-goel.github.io/ucmr/
+代码链接：https://github.com/shubham-goel/ucmr/tree/master
 ```
 
+- 回复关键字：Nreal招聘
 ```
-- 回复关键字：
+联系电话：15313690697
+投递简历请发送至hr@nreal.ai，并且注明：微信公众号+应聘岗位+姓名
 ```
-
+- 回复关键字：CoST
 ```
-
-- 回复关键字：
-```
-
-```
-- 回复关键字：
+Title: LION: Lidar-Inertial Observability-Aware Navigator for Vision-Denied Environments标题: LION: 用于光线恶劣环境下激光雷达+惯性SLAM框架
+链接: https://arxiv.org/abs/2102.03443
 ```
 
+- 回复关键字：腾讯AI
+```
+简历发送至: linchaobao@tencent.com
+研究员正式员工岗位申请请加注＂AI Lab研究员岗位申请-{毕业学校}-{最高学位}＂
+实习生申请请在标题加注＂AI Lab实习生申请-{学校}-{可实习X个月}＂
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：Fast-MVSNet
+```
+开源代码：https://github.com/svip-lab/FastMVSNet
 ```
 
 - 回复关键字：
