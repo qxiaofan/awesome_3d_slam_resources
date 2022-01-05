@@ -2,23 +2,25 @@
 
 以下若有链接失效，请提交issue或者联系我们小助理微信：CV_LAB，我们将定期修正完善，并不断增补资料。
 
-#### 3D视觉精品课程：
+**3D视觉工坊小鹅通店铺：[3D视觉精品视频课程](https://app0S6nfQRG6303.h5.xiaoeknow.com)**
+
 - [国内首个面向自动驾驶领域的多传感器融合标定系统学习课程](https://mp.weixin.qq.com/s/0-mb6M6HvKU3Uau0a4taTw)
-
+- [视觉-惯性SLAM入门与实践教程（基于VINS-Fusion）](https://mp.weixin.qq.com/s/L3YkFH7JSAhM4rDam7mdWg)
 - [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://mp.weixin.qq.com/s/9gtdrloSWR2kJlYk5CnWIQ)
-
 - [彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 ](https://mp.weixin.qq.com/s/POWVOCbTxAEp7z2FZ3mdVQ)
-
 - [三维点云从入门到精通系统视频学习课程](https://mp.weixin.qq.com/s/uJ34xjWjAFCzDDduoo0ixA)
- 
+- [彻底剖析室内、室外激光SLAM关键算法原理、代码和实战(cartographer+LOAM+LIO-SAM)](https://mp.weixin.qq.com/s/Un0-2L-FU2QTmW0zez8RTg) 
 - [国内首个基于结构光投影三维重建系列视频课程](https://mp.weixin.qq.com/s/WLyuE3ByntGA-Y0w8GZ29A)
-
 - [相机标定从入门到精通：基本原理与实战](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_6092922ee4b09134c98de375?type=3)
-
 - [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
+- [从零搭建一套结构光3D重建系统理论+源码+实践\]](https://mp.weixin.qq.com/s/dgc25DwLqJJlnq_d29qeZg)
+- [彻底剖析激光-视觉-IMU-GPS融合SLAM算法：理论推导、代码讲解和实战](https://mp.weixin.qq.com/s/dNMm3XnIVuyo2ANS9eVQ1A)
+- [彻底搞懂视觉-惯性SLAM：基于VINS-Fusion](https://mp.weixin.qq.com/s/xCtq4nI9Jd5HyVIW1bCKTg)
+- [视觉三维重建的关键技术及实现](https://mp.weixin.qq.com/s/9gtdrloSWR2kJlYk5CnWIQ)
+- [ROS2从入门到精通：理论与实战](https://mp.weixin.qq.com/s/LVx1SkxYXWQvv7UeFToXwQ)
+- [四旋翼飞行器：算法与实战](https://mp.weixin.qq.com/s/tXdADZnApwHpb63NFEHYqg)
 
-
-##### 一「3D视觉工坊」及「计算机视觉工坊」关键字汇总
+###  一「3D视觉工坊」及「计算机视觉工坊」关键字汇总
 
 关键字回复汇总——>请戳[这里](3D/keyword.md)
 
