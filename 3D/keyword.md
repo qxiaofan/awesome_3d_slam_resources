@@ -1,5 +1,121 @@
 「3D视觉工坊」及「计算机视觉工坊」后台关键字回复汇总
 
+- 回复关键字：阿里云
+```
+简历请发到dadong.gxd@alibaba-inc.com或者zuozhuo.dzz@alibaba-inc.com
+```
+
+- 回复关键字：LiDAR里程计
+```
+论文地址： https://pan.baidu.com/s/1SZgS6koRGmUsBlkpUneD8w 提取码：v2nl
+代码地址：https://github.com/PRBonn/puma
+视频地址：https://mp.weixin.qq.com/s/xrFAoBjC8llMcAFeD6PGMA
+```
+
+- 回复关键字：EMOT多目标跟踪
+```
+Title：EagerMOT: 3D Multi-Object Tracking via Sensor Fusion
+标题：ICRA2021论文，EagerMOT，通过传感器融合进行3D多目标跟踪
+链接：https://arxiv.org/abs/2104.14682
+代码：https://github.com/aleksandrkim61/EagerMOT
+```
+
+- 回复关键字：激光雷达
+```
+直播链接：https://app0S6nfQRG6303.h5.xiaoeknow.com/v2/course/alive/l_60cb5830e4b0f120ffc83199?app_id=app0S6nfQRG6303&alive_mode=0&pro_id=&type=2
+
+直播时间：2021年6月19日 周六 下午3-5点
+```
+
+- 回复关键字：结构光
+```
+直播链接：https://app0S6nfQRG6303.h5.xiaoeknow.com/v2/course/alive/l_60d5a23ee4b057a4e7281810?app_id=app0S6nfQRG6303&alive_mode=0&pro_id=&type=2
+
+直播时间：2021年6月26日 周六上午10点
+```
+
+- 回复关键字：Transformer
+```
+链接：https://pan.baidu.com/s/18AQ1JQxHpmb10Cxdg17gQA 提取码：7ijg
+```
+
+- 回复关键字：双目结构光
+```
+双目结构光，直播地址：https://app0S6nfQRG6303.h5.xiaoeknow.com/v2/course/alive/l_60aface1e4b0c7264219b522?app_id=app0S6nfQRG6303&alive_mode=0&pro_id=p_609281f5e4b0d4eb039721a1&type=2
+
+直播时间：2021年5月30日上午10点
+```
+
+- 回复关键字：PatchmatchNet
+```
+直播地址：https://app0S6nfQRG6303.h5.xiaoeknow.com/v2/course/alive/l_60a7b113e4b0c7264217e6fe?app_id=app0S6nfQRG6303&alive_mode=0&pro_id=&type=2
+
+主题：PatchmatchNet：基于传统PatchMatch算法的高效Multi-view Stereo框架
+```
+
+- 回复关键字：雷博招聘
+```
+Open Date: 15 April 2021
+Close Date: 30 July 2021
+Recruiter: Shirley Wang
+Email: Shirley.wang@roboworks.com.cn
+Mobile: 15771969062
+备注：3D视觉工坊推荐
+```
+
+- 回复关键字：210625
+```
+代码：https://github.com/lijx10/DeepI2P
+论文：https://arxiv.org/abs/2104.03501
+```
+
+- 回复关键字：ICRA2021
+```
+链接: https://pan.baidu.com/s/1kzFsXARpoLnTnbfBmLReEQ 
+提取码: 68d7
+```
+
+- 回复关键字：三星招聘
+```
+有兴趣的同学请将简历发送至：
+zhihua.liu@samsung.com
+```
+
+- 回复关键字：点云补全
+```
+直播地址：https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_60d9d38ae4b057a4e728db27?app_id=app0S6nfQRG6303&alive_mode=0&pro_id=&type=2
+
+直播时间：7月3日 周六晚20:00
+
+```
+
+- 回复关键字：FASTLIO
+```
+Title：FAST-LIO: A Fast, Robust LiDAR-inertial Odometry Package by Tightly-Coupled Iterated Kalman Filter
+标题：香港大学工作，FAST-LIO：基于紧密耦合迭代卡尔曼滤波的快速、鲁棒的激光雷达里程计包，代码开源
+链接：https://arxiv.org/pdf/2010.08196.pdf
+代码：https://github.com/hku-mars/FAST_LIO
+```
+
+- 回复关键字：025
+```
+课件→链接: https://pan.baidu.com/s/16mY75DfBtz0wxiDwQaG8PQ密码: xcbo
+
+回放视频：https://www.bilibili.com/video/BV1Bf4y1b7PF/
+```
+
+- 回复关键字：DELTAS
+```
+数据集和预训练模型：https://github.com/magicleap/DELTAS
+```
+
+- 回复关键字：多维感知
+```
+直播链接：https://app0S6nfQRG6303.h5.xiaoeknow.com/v2/course/alive/l_60b19b02e4b07e4d7fd9efbd?app_id=app0S6nfQRG6303&alive_mode=0&pro_id=p_609d2d59e4b0fe322013088d&type=2
+
+直播时间：2021年5月29日晚八点
+```
+
 - 回复关键字：ENVGPU
 ```
 GPU编程之环境搭建：Ubuntu16.04+CUDA9.0+cuDNN7.6.5+Clion
