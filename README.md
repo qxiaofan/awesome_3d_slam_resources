@@ -2,29 +2,45 @@
 
 以下若有链接失效，请提交issue或者联系我们小助理微信：dddvision，我们将定期修正完善，并不断增补资料。
 
-**3D视觉工坊小鹅通店铺：[3D视觉精品视频课程](https://app0S6nfQRG6303.h5.xiaoeknow.com)**
+**3D视觉工坊小鹅通店铺：[3D视觉精品视频课程](https://www.3dcver.com), 网站：https://www.3dcver.com
 
-- [国内首个面向自动驾驶领域的多传感器融合标定系统学习课程](https://mp.weixin.qq.com/s/0-mb6M6HvKU3Uau0a4taTw)
-- [视觉-惯性SLAM入门与实践教程（基于VINS-Fusion）](https://mp.weixin.qq.com/s/L3YkFH7JSAhM4rDam7mdWg)
-- [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://mp.weixin.qq.com/s/9gtdrloSWR2kJlYk5CnWIQ)
-- [彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 ](https://mp.weixin.qq.com/s/POWVOCbTxAEp7z2FZ3mdVQ)
-- [三维点云从入门到精通系统视频学习课程](https://mp.weixin.qq.com/s/uJ34xjWjAFCzDDduoo0ixA)
-- [彻底剖析室内、室外激光SLAM关键算法原理、代码和实战(cartographer+LOAM+LIO-SAM)](https://mp.weixin.qq.com/s/Un0-2L-FU2QTmW0zez8RTg) 
-- [国内首个基于结构光投影三维重建系列视频课程](https://mp.weixin.qq.com/s/WLyuE3ByntGA-Y0w8GZ29A)
-- [相机标定从入门到精通：基本原理与实战](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_6092922ee4b09134c98de375?type=3)
-- [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
-- [从零搭建一套结构光3D重建系统理论+源码+实践\]](https://mp.weixin.qq.com/s/dgc25DwLqJJlnq_d29qeZg)
-- [彻底剖析激光-视觉-IMU-GPS融合SLAM算法：理论推导、代码讲解和实战](https://mp.weixin.qq.com/s/dNMm3XnIVuyo2ANS9eVQ1A)
-- [彻底搞懂视觉-惯性SLAM：基于VINS-Fusion](https://mp.weixin.qq.com/s/xCtq4nI9Jd5HyVIW1bCKTg)
-- [视觉三维重建的关键技术及实现](https://mp.weixin.qq.com/s/9gtdrloSWR2kJlYk5CnWIQ)
-- [ROS2从入门到精通：理论与实战](https://mp.weixin.qq.com/s/LVx1SkxYXWQvv7UeFToXwQ)
-- [四旋翼飞行器：算法与实战](https://mp.weixin.qq.com/s/tXdADZnApwHpb63NFEHYqg)
+- 国内首个面向自动驾驶领域的多传感器融合标定系统学习课程
+
+- 视觉-惯性SLAM入门与实践教程（基于VINS-Fusion）
+
+- 彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进
+
+- 彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 
+
+- 三维点云从入门到精通系统视频学习课程
+
+- 彻底剖析室内、室外激光SLAM关键算法原理、代码和实战(cartographer+LOAM+LIO-SAM)
+
+- 国内首个基于结构光投影三维重建系列视频课程
+
+- 相机标定从入门到精通：基本原理与实战
+
+- 机械臂位姿估计与抓取（基本原理+代码实战）
+
+- 从零搭建一套结构光3D重建系统理论+源码+实践
+
+- 彻底剖析激光-视觉-IMU-GPS融合SLAM算法：理论推导、代码讲解和实战
+
+- 彻底搞懂视觉-惯性SLAM：基于VINS-Fusion
+
+- 视觉三维重建的关键技术及实现
+
+- ROS2从入门到精通：理论与实战
+
+- 四旋翼飞行器：算法与实战
+
+- 国内首个3D视觉缺陷检测：理论、源码与实战 
 
 ###  一「3D视觉工坊」及「计算机视觉工坊」关键字汇总
 
 关键字回复汇总——>请戳[这里](3D/keyword.md)
 
-##### 二 3D视觉精华github总结
+### 二 3D视觉精华github总结
 
 1、[总结|VSLAM、点云后处理、相机标定、深度学习等边角知识](https://github.com/qxiaofan/awsome-3D-Computer-Vision-Resources)
 
@@ -46,7 +62,7 @@
 
 11、[计算机视觉系统学习必读书籍（免费领取啦~)](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=100060043&idx=2&sn=2a02843a04d195151cb40a76c445d9fa&chksm=7bfc00bf4c8b89a90ceca84a2d373feaef19b70c456e0a69e3b3b84cb42667809adb8fbfb0b3&mpshare=1&scene=1&srcid=0310yHya33Mg3TwjV9pcaLxG&sharer_sharetime=1615342114815&sharer_shareid=08a5efa40af25b6a57bd07cf52cdcd42&exportkey=Aw%2BXvOW4NlMCf3hnC45NN4o%3D&pass_ticket=Agt2XaSAqcO2duzuIhjnDnI%2Brv%2FxL7dvwHyuwQ2A0Ut4leBcK6M0EA3ApzhYe9XH&wx_header=0#rd)
 
-##### 三 3D视觉从入门到精通
+### 三 3D视觉从入门到精通
 
 - 开源代码（涉及立体匹配、结构光、缺陷检测、点云、三维重建、位姿估计、深度不全、）
 - vip系列视频课程+课件（三维重建、自动驾驶、结构光、ORB-SLAM3、点云、机械臂抓取等系列视频课程）
@@ -62,9 +78,9 @@
 
 详情请戳这里->[3D视觉从入门到精通](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw)
 
-##### 四 重磅！国内首个三维重建系列视频课程，涉及SFM、立体匹配、多视图几何、结构光、单目深度估计等->[详情](https://mp.weixin.qq.com/s/WLyuE3ByntGA-Y0w8GZ29A)
+### 四 重磅！国内首个三维重建系列视频课程，涉及SFM、立体匹配、多视图几何、结构光、单目深度估计等->[详情](https://mp.weixin.qq.com/s/WLyuE3ByntGA-Y0w8GZ29A)
 
-##### 五 加群
+### 五 加群
 
 ![](imgs/公众号.jpg)
 
