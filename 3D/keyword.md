@@ -1,5 +1,122 @@
 「3D视觉工坊」及「计算机视觉工坊」后台关键字回复汇总
 
+- 回复关键字：MLOAM
+```
+Title：Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration
+标题：港科大工作，在线外参标定多激光雷达的鲁棒性里程计和建图，代码开源
+论文：https://arxiv.org/abs/2010.14294
+代码：https://github.com/gogojjh/M-LOAM
+```
+
+- 回复关键字：IROS-AIB
+```
+Title：Aerial Imagery based LIDAR Localization for Autonomous Vehicles
+标题：IROS2020，基于航空影像的自动驾驶汽车激光雷达定位
+链接：https://arxiv.org/abs/2003.11192
+```
+
+- 回复关键字：人体三维
+```
+微信号：18375757870，添加时请备注：工坊推荐
+```
+
+- 回复关键字：D4LCN
+```
+原文地址：https://arxiv.org/pdf/1912.04799v1
+官方代码：https://github.com/dingmyu/D4LCN
+```
+
+- 回复关键字：cvpr2021
+```
+CVPR 2021 自动驾驶相关论文汇总
+
+链接: https://pan.baidu.com/s/1Q2GqhxkkZOq2yeTreGGB2g 
+提取码: skgm
+```
+
+- 回复关键字：CVPR21检测
+```
+CVPR2021检测类论文汇总：
+
+链接: https://pan.baidu.com/s/1ghyDitfeGcnh1C_U2HliIA 
+密码: 91m8
+```
+
+- 回复关键字：MonoRec
+```
+Title：[CVPR 2021] MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from One Camera
+标题：[CVPR2021] MonoRec：无需激光雷达，单相机实现三维场景的稠密重建，去除运动伪影，泛化性能好！代码开源！
+论文：https://arxiv.org/abs/2011.11814
+代码：https://github.com/Brummi/MonoRec
+```
+
+- 回复关键字：DLT
+```
+标题：CVPR2021，利用深度学习自动监测肿瘤病灶，准确率高达85%，效率提升14倍（数据集开源）
+Title：Deep Lesion Tracker: Monitoring Lesions in 4D Longitudinal Imaging Studies
+链接：https://arxiv.org/abs/2012.04872
+数据集：https://github.com/JimmyCai91/DLT
+
+```
+
+- 回复关键字：易思维科技
+```
+请将简历投递至邮箱liuhaiqing@isv-tech.com，备注：3D视觉工坊
+```
+
+- 回复关键字：三角化
+```
+直播主题：SLAM
+\SfM中的两视图三角化算法
+直播地址：https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_60f0419be4b08f7ad23d3b53?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=&amp;type=2
+直播时间：7月25日 周日晚上20:00
+```
+
+- 回复关键字：深度估计
+```
+直播时间：7月17日晚八点
+ 直播地址：https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_60eeeda8e4b08f7ad23cd33f?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=p_60acfdd9e4b07e4d7fd8bcaf&amp;type=2
+```
+
+- 回复关键字：普渡科技
+```
+联系人Nicole：18681378728   
+yanghong@pudutech.com
+```
+
+- 回复关键字：LoFTR
+```
+标题：浙大+商汤联合工作，LoFTR：利用transformers对稀疏纹理进行匹配（CVPR2021）
+Title：LoFTR: Detector-Free Local Feature Matching with Transformers
+论文：https://arxiv.org/pdf/2104.00680.pdf
+代码：https://github.com/zju3dv/LoFTR
+```
+
+- 回复关键字：实时三维测量
+```
+直播时间：8月1日 上午 10:00
+直播地址：https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_6105105ee4b054ed7c486287?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=&amp;type=2
+
+```
+
+- 回复关键字：M3DR
+```
+标题：商汤提出手机端单目实时三维重建系统，实现逼真AR效果和交互
+
+Title：Mobile3DRecon: Real-time Monocular 3D Reconstruction on a Mobile Phone
+
+论文：http://www.cad.zju.edu.cn/home/gfzhang/projects/mobile-3d-recon.pdf
+```
+
+- 回复关键字：ECCV-FVS
+```
+论文：ECCV2020，循环神经网络自由合成任意视角图像，代码开源！效果惊艳！
+Title：Free View Synthesis（ECCV2020）
+链接：http://vladlen.info/papers/FVS.pdf
+代码：https://github.com/intel-isl/FreeViewSynthesis
+```
+
+
 - 回复关键字：阿里云
 ```
 简历请发到dadong.gxd@alibaba-inc.com或者zuozhuo.dzz@alibaba-inc.com
