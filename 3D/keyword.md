@@ -471,100 +471,151 @@ Title：NEAT: Neural Attention Fields for End-to-End Autonomous Driving
 
 代码：https://github.com/autonomousvision/neat
 ```
+=============================================================
+- 回复关键字：FVFSC
+```
+标题：[SIGGRAPH2021]快速且通用的流体-固体相互作用3D湍流仿真模拟
 
-- 回复关键字：
+Title：Fast and Versatile Fluid-Solid Coupling for Turbulent Flow Simulation (SIGGRAPH Asia 2021)
+
+论文：http://geometry.caltech.edu/pubs/LLDL21.pdf
 ```
 
+- 回复关键字：ADSOW
+```
+标题：空中机器人利用机载电脑感知计算躲避动态小障碍物
+
+Title：Avoiding dynamic small obstacles with onboard sensing and computating on aerial robots
+
+论文：https://arxiv.org/abs/2103.00406
+
+代码：https://github.com/hku-mars/dyn_small_obs_avoidance
 ```
 
-- 回复关键字：
+- 回复关键字：FAR-Planner
+```
+标题：开源扫地机SLAM导航算法：FAR Planner全局路径规划
+Title：FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update
+代码：https://github.com/MichaelFYang/far_planner
 ```
 
+- 回复关键字：LEMO
+```
+标题：ICCV2021：学习 3D 场景中 4D 人体捕捉的运动先验，实现高质量三维人体动作捕捉
+Title：LEMO：Learning Motion Priors for 4D Human Body Capture in 3D Scenes
+链接：https://arxiv.org/pdf/2108.10399.pdf
+代码：https://sanweiliti.github.io/LEMO/LEMO.html
 ```
 
-- 回复关键字：
+- 回复关键字：Refer
+```
+Title：[CVPR 2021] Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images
+标题：[CVPR 2021] 深圳市大数据研究院：根据文本描述进行三维物体定位
+链接：https://arxiv.org/abs/2103.07894v3
+代码：https://unclemedm.github.io/Refer-it-in-RGBD/
 ```
 
+- 回复关键字：SpSeq
+```
+Title：SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds
+标题：[CVPR2020]SpSequenceNet：4D点云语义分割网络
+链接：https://ieeexplore.ieee.org/document/9156504
+代码：https://github.com/dante0shy/SpSequenceNet
 ```
 
-- 回复关键字：
+- 回复关键字：ROMO
+```
+标题：ICCV2021：ROMO：单目、单阶段、多人的3D语义分割方法
+
+Ttile：ROMP: Monocular, One-stage, Regression of Multiple 3D People (ICCV 2021)
+链接：https://arxiv.org/abs/2008.12272v4
+
+代码：https://github.com/Arthur151/ROMP
 ```
 
+- 回复关键字：SFIST
+```
+标题：SIGGRAPH2021，北大&amp;北电最新研究，模拟水面表面张力，效果自然、真实！
+Title：[SIGGRAPH 2021] Solid-Fluid Interaction with Surface-Tension-Dominant Contact
+论文：https://lwruan.com/publication/waterstrider/
 ```
 
-- 回复关键字：
+- 回复关键字：SegICP
+```
+Code: https://github.com/jaymwong/seline
 ```
 
+- 回复关键字：CRNP
+```
+标题：CVPR2020：级联细化网络用于点云补全（代码开源）
+Title：Cascaded Refinement Network for Point Cloud Completion
+链接：https://arxiv.org/abs/2004.03327v3
+代码：https://github.com/xiaogangw/cascaded-point-completion
 ```
 
-- 回复关键字：
+- 回复关键字：DORVS
+```
+标题：[IROS2021] 使用镜面反射减少机器人视觉系统中的遮挡
+
+Title：IROS2021：Diminishing Occlusions in Robot Vision Systems with Mirror Reflections
+
+链接：https://arxiv.org/abs/2108.13599
 ```
 
+- 回复关键字：复现论文
+```
+联系方式：陈先生    23703595@qq.com
 ```
 
-- 回复关键字：
+- 回复关键字：3D结构光扫面
+```
+联系方式：修云鹏13543060130
 ```
 
+- 回复关键字：RoadMap
+```
+标题：华为最新工作：RoadMap：用于自动驾驶视觉定位的轻量化语义地图
+Title：RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving
+链接：https://arxiv.org/abs/2106.02527v1
 ```
 
-- 回复关键字：
+- 回复关键字：DSP-SLAM
+```
+标题：代码开源，伦敦大学：DSP-SLAM：具有深度形状先验的物体语义级SLAM
+Title：DSP-SLAM: Object Oriented SLAM with Deep Shape Priors
+链接：https://arxiv.org/abs/2108.09481
+代码：https://github.com/JingwenWang95/DSP-SLAM
 ```
 
+- 回复关键字：阿丘科技
+```
+投递邮箱：yang.bai@aqrose.com
 ```
 
-- 回复关键字：
+- 回复关键字：DM-VIO
+```
+标题：RA-L 2022：延迟边缘化单目视觉惯性里程计，效果高于双目！
+Title：DM-VIO: Delayed Marginalization Visual-Inertial Odometry
+链接：https://vision.in.tum.de/research/vslam/dm-vio?redirect=1
+代码：https://github.com/lukasvst/dm-vio
 ```
 
+- 回复关键字：IROS-EKF
+```
+Title：A decentralized framework for simultaneous calibration, localization and mapping with multiple LiDAR
+论文：https://arxiv.org/abs/2007.01483
+硬件：https://github.com/hku-mars/lidar_car_platfrom
+软件：https://github.com/hku-mars/decentralized_loam
+解读：https://mp.weixin.qq.com/s/hbFCUjFR7nCKSZI2rAjw_w
 ```
 
-- 回复关键字：
+- 回复关键字：Panop
 ```
+标题：ICRA2022：自适应环境的移动机器人自主导航
 
-```
+Title：An Efficient Locally Reactive Controller for Safe Navigation in Visual Teach and Repeat Missions
 
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
+链接：https://arxiv.org/abs/2201.03938
 ```
 
 - 回复关键字：
