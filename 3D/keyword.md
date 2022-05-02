@@ -303,359 +303,436 @@ Title：ESL: Event-based Structured Light
 代码：https://github.com/uzh-rpg/ESL
 ```
 
-- 回复关键字：
+- 回复关键字：视觉和惯性传感器
 ```
+论文链接：https://pan.baidu.com/s/1AsYnlQXAFGextg9f78C75g 
+提取码：f8yk
 
+相关视频和代码：https://Smilels.github.io/multimodal-translation-teleop
 ```
 
-- 回复关键字：
+- 回复关键字：CasMVSNet
 ```
-
+论文代码：https://github.com/alibaba/cascade-stereo
 ```
 
-- 回复关键字：
+- 回复关键字：ACCV2020
 ```
-
+链接: https://pan.baidu.com/s/1i6CBoxK6Ar4pHQKFO4ornA 
+提取码: 5hen
 ```
 
-- 回复关键字：
+- 回复关键字：半直接单目
 ```
-
+【代码地址】https://github.com/sunghoon031/LCSD_SLAM
 ```
 
-- 回复关键字：
+- 回复关键字：上海莱陆
 ```
-
+简历投递：hr@roboway.cn
+备注：3D视觉工坊推荐
 ```
 
-- 回复关键字：
+- 回复关键字：RGB检测
 ```
+论文下载：https://openaccess.thecvf.com/content/ACCV2020/papers/Yan_SDCNet_Size_Divide_and_Conquer_Network_for_Salient_Object_Detection_ACCV_2020_paper.pdf
 
+论文代码：https://github.com/Sssssbo/SDCNet (等待上传)
 ```
 
-- 回复关键字：
+- 回复关键字：P-MVSNet
 ```
-
+论文链接：
+https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_P-MVSNet_Learning_Patch-Wise_Matching_Confidence_Aggregation_for_Multi-View_Stereo_ICCV_2019_paper.pdf
 ```
 
-- 回复关键字：
+- 回复关键字：Monodepth2
 ```
-
+论文链接：https://sci-hub.se/10.1109/iccv.2019.00393
 ```
 
-- 回复关键字：
+- 回复关键字：Fast-MVSNet
 ```
-
+开源代码：https://github.com/svip-lab/FastMVSNet
 ```
 
-- 回复关键字：
+- 回复关键字：调研报告
 ```
-
+《2020年度中国计算机视觉人才调研报告》
+链接：https://pan.baidu.com/s/1avr-Rm5aTWX800rVZdF9Ig  
+提取码：ytg1
 ```
 
-- 回复关键字：
+- 回复关键字：U-CMR
 ```
-
+项目链接：https://shubham-goel.github.io/ucmr/
+代码链接：https://github.com/shubham-goel/ucmr/tree/master
 ```
 
-- 回复关键字：
+- 回复关键字：目标检测竞赛
 ```
-
+大盘点 | 2020年5篇目标检测算法最佳综述链接:
+https://pan.baidu.com/s/1IRZeDN4P8TjWu2MJIc261A 
+密码:3f90
 ```
 
-- 回复关键字：
+- 回复关键字：Camera答案
 ```
-
+参考答案地址：
+https://github.com/ethan-li-coding/StereoV3DCode
 ```
 
-- 回复关键字：
+- 回复关键字：坐标系与相机参数
 ```
-
+随课代码地址：
+StereoV3DCode：https://github.com/ethan-li-coding/StereoV3DCode
 ```
 
-- 回复关键字：
+- 回复关键字：RGB图像重建
 ```
-
+项目地址：https://smalr.is.tue.mpg.de/
+论文地址：http://files.is.tue.mpg.de/black/papers/zuffiCVPR2018.pdf
 ```
 
-- 回复关键字：
+- 回复关键字：RepVGG
 ```
-
+代码地址: https://github.com/DingXiaoH/RepVGG
 ```
 
-- 回复关键字：
+- 回复关键字：3D鸟类重建
 ```
-
+代码链接：https://github.com/marcbadger/avian-mesh
+项目链接：https://marcbadger.github.io/avian-mesh
+论文链接：https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630001.pdf
 ```
 
-- 回复关键字：
+- 回复关键字：HPE
 ```
-
+https://arxiv.org/pdf/2006.01423.pdf
 ```
 
-- 回复关键字：
+- 回复关键字：BlendedMVS
 ```
-
+数据集和预训练模型：https://github.com/YoYo000/BlendedMVS
 ```
 
-- 回复关键字：
+- 回复关键字：Bundle Adjustment
 ```
-
+本文所有例子代码地址：
+https://github.com/qxiaofan/awesome-BA-exercise
 ```
 
-- 回复关键字：
+- 回复关键字：EF-Net
 ```
-
+论文下载：https://www.sciencedirect.com/science/article/abs/pii/S0031320320305434
 ```
 
-- 回复关键字：
+- 回复关键字：Speech2Face
 ```
-
+项目地址：https://speech2face.github.io/ 
 ```
 
-- 回复关键字：
+- 回复关键字：人脸
 ```
-
+链接:https://pan.baidu.com/s/1Kg1CLmB9Aju8ncyg9MYRfQ 
+密码:mvq1
 ```
 
-- 回复关键字：
+- 回复关键字：写作
 ```
-
+链接：https://pan.baidu.com/s/1zlc7fBqWfA15kyNCfk5-OQ   提取码：0101
 ```
 
-- 回复关键字：
+- 回复关键字：地图管理
 ```
+论文打包下载： https://pan.baidu.com/s/1kRX7s5GIzOjSAy1eAhi2HQ
 
+提取码: s5ak
 ```
 
-- 回复关键字：
+- 回复关键字：综述
 ```
-
+CV 综述链接：
+https://pan.baidu.com/s/1xzJWAVuP8ReceCG27mrKIg 
+提取码：52CV
 ```
 
-- 回复关键字：
+- 回复关键字：尺度可观测性
 ```
+论文地址：https://arxiv.org/pdf/2103.15215.pdf
 
+代码地址：https://github.com/jpl-x
 ```
 
-- 回复关键字：
+- 回复关键字：外参标定
 ```
-
+代码即将在https://github.com/alibaba开源 
 ```
 
-- 回复关键字：
+- 回复关键字：DELTAS
 ```
-
+数据集和预训练模型：https://github.com/magicleap/DELTAS
 ```
 
-- 回复关键字：
+- 回复关键字：D4LCN
 ```
-
+原文地址：https://arxiv.org/pdf/1912.04799v1
+官方代码：https://github.com/dingmyu/D4LCN
 ```
 
-- 回复关键字：
+- 回复关键字：transformer
 ```
+Visual Transformer综述下载
 
+链接：https://pan.baidu.com/s/1mfWTjjYnbRsIurORv0MQwg 
+提取码：favd
 ```
 
-- 回复关键字：
+- 回复关键字：高速结构光
 ```
+直播地址：https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_60fac44de4b08f7ad24018e4?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=p_609281f5e4b0d4eb039721a1&amp;type=2
 
+直播时间：2021年7月24日晚八点。
 ```
 
-- 回复关键字：
+- 回复关键字：三角化
 ```
+直播地址:
+https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_60f0419be4b08f7ad23d3b53?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=&amp;type=2
 
-```
+直播时间：7月25日 周日晚上20:00
 
-- 回复关键字：
+直播主题：SLAM
+\SfM中的两视图三角化算法
 ```
 
+- 回复关键字：深度估计
 ```
-
-- 回复关键字：
+直播时间：7月17日晚八点
+直播地址：https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_60eeeda8e4b08f7ad23cd33f?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=p_60acfdd9e4b07e4d7fd8bcaf&amp;type=2
 ```
 
+- 回复关键字：高反光
 ```
-
-- 回复关键字：
+直播时间：7.10周六晚八点
+直播地址：https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_60e5bca5e4b0bd401d89494f?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=p_609281f5e4b0d4eb039721a1&amp;type=2
 ```
 
+- 回复关键字：点云补全
 ```
+直播地址：https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_60d9d38ae4b057a4e728db27?app_id=app0S6nfQRG6303&amp;amp;amp;amp;alive_mode=0&amp;amp;amp;amp;pro_id=&amp;amp;amp;amp;type=2
 
-- 回复关键字：
+直播时间：7月3日 周六晚20:00
 ```
 
+- 回复关键字：逆相机法
 ```
-
-- 回复关键字：
+链接：https://pan.baidu.com/s/1SaYMPHj3Mh_A9mQIGx-R8g 
+提取码：803z
 ```
 
+- 回复关键字：单目自监督
 ```
-
-- 回复关键字：
+代码地址：https://github.com/nvlabs/umr
+论文地址：https://arxiv.org/pdf/2003.06473.pdf
 ```
 
+- 回复关键字：双目结构光
 ```
+双目结构光，直播地址：https://app0S6nfQRG6303.h5.xiaoeknow.com/v2/course/alive/l_60aface1e4b0c7264219b522?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=p_609281f5e4b0d4eb039721a1&amp;type=2
 
-- 回复关键字：
+直播时间：2021年5月30日上午10点
 ```
 
+- 回复关键字：LiTAMIN2
 ```
-
-- 回复关键字：
+视频链接：https://www.bilibili.com/video/BV1yp4y1h792/
+论文链接： https://arxiv.org/pdf/2103.00784v1.pdf
 ```
 
+- 回复关键字：DRO
 ```
-
-- 回复关键字：
+论文链接:https://arxiv.org/abs/2103.13201
+代码链接:https://github.com/aliyun/dro-sfm
 ```
 
+- 回复关键字：导航系统
 ```
-
-- 回复关键字：
+论文地址： https://pan.baidu.com/s/1YutBKtSNDNe8FN8BX8Untw 提取码：wc0k
+视频地址：https://mp.weixin.qq.com/s/9dPmQ6pd8-vRg8NFv_nNPA
 ```
 
+- 回复关键字：PREDATOR
 ```
-
-- 回复关键字：
+论文代码：https://github.com/ShengyuH/OverlapPredator
 ```
 
+- 回复关键字：LiDAR里程计
 ```
-
-- 回复关键字：
+论文地址： https://pan.baidu.com/s/1SZgS6koRGmUsBlkpUneD8w 提取码：v2nl 
+代码地址：https://github.com/PRBonn/puma
+视频地址：https://mp.weixin.qq.com/s/xrFAoBjC8llMcAFeD6PGMA
 ```
 
+- 回复关键字：目标检测综述
 ```
+综述：目标检测二十年（2001-2021）
 
-- 回复关键字：
+链接: https://pan.baidu.com/s/1YJ7x68H7VldF4CDF7HQ7fw 
+提取码: jmz2 
 ```
 
+- 回复关键字：二维图像GAN
 ```
-
-- 回复关键字：
+原文链接：https://openreview.net/pdf?id=FGqiDsBUKL0
+代码地址：https://github.com/XingangPan/GAN2Shape
 ```
 
+- 回复关键字：PHOSA
 ```
-
-- 回复关键字：
+项目网址：https://jasonyzhang.com/phosa/
+论文网址：https://arxiv.org/pdf/2007.15649.pdf 
 ```
 
+- 回复关键字：PAConv
 ```
-
-- 回复关键字：
+论文链接：https://arxiv.org/abs/2103.14635
+代码链接：https://github.com/CVMI-Lab/PAConv
 ```
 
+- 回复关键字：相机定位
 ```
+论文地址：https://arxiv.org/pdf/2103.16792.pdf
 
-- 回复关键字：
+Code开源：https://github.com/Tangshitao/DenseScene-Matching 
 ```
 
+- 回复关键字：MVSNet网络
 ```
+开源代码(tensorflow)：https://github.com/YoYo000/MVSNet
 
-- 回复关键字：
+开源代码(PyTorch)：https://github.com/XYZ-qiyh/MVSNet_pytorch
 ```
 
+- 回复关键字：pixelNeRF
 ```
-
-- 回复关键字：
+项目地址：https://alexyu.net/pixelnerf/
+论文地址：https://arxiv.org/pdf/2012.02190.pdf 
 ```
 
+- 回复关键字：LVI-SAM
 ```
-
-- 回复关键字：
+代码开源：github.com/TixiaoShan/LVI-SAM
 ```
 
+- 回复关键字：鲁棒点云
 ```
-
-- 回复关键字：
+论文代码：https://github.com/fukexue/RGM.
 ```
 
+- 回复关键字：SpinNet
 ```
-
-- 回复关键字：
+论文代码：https://github.com/QingyongHu/SpinNet 
 ```
 
+- 回复关键字：思无界科技
 ```
-
-- 回复关键字：
+简历请发送到：liyanpeking@163.com
+备注：3D视觉工坊推荐
 ```
 
+- 回复关键字：CenterPoint
 ```
-
-- 回复关键字：
+代码：https://github.com/tianweiy/CenterPoint
+论文：https://arxiv.org/pdf/2006.11275.pdf 
 ```
 
+- 回复关键字：华为招聘
 ```
-
-- 回复关键字：
+微信：xk110726
+电话：18665332636
+备注：3D视觉工坊推荐 
 ```
 
+- 回复关键字：PMS
 ```
-
-- 回复关键字：
+Windows版本：https://github.com/ethan-li-coding/PatchMatchStereo
+Linux版本：https://github.com/Haonan-DONG/PatchMatchStereo_linux 
 ```
 
+- 回复关键字：PISE
 ```
-
-- 回复关键字：
+项目主页：http://cic.tju.edu.cn/faculty/likun/projects/PISE
+ 代码：https://github.com/Zhangjinso/PISE
 ```
 
+- 回复关键字：单目重建
 ```
-
-- 回复关键字：
+Mobile3DRecon: Real-time Monocular 3D Reconstruction on a Mobile Phone
+链接: https://pan.baidu.com/s/1kaPCPR_eLDEWgoZlWyeuQQ
+提取码: d7n4 
 ```
 
+- 回复关键字：CorrNet3D
 ```
-
-- 回复关键字：
+论文链接：https://arxiv.org/pdf/2012.15638.pdf
+代码链接：https://github.com/ZENGYIMING-EAMON/CorrNet3D
 ```
 
+- 回复关键字：0009
 ```
-
-- 回复关键字：
+论文分享（语义分割相关论文）
+链接：https://pan.baidu.com/s/1R4pZNK_AkPjaCH2gUuE-tA 提取码：lqka 
 ```
 
+- 回复关键字：R3LIVE
 ```
+论文地址： https://github.com/hku-mars/r3live/blob/master/papers/R3LIVE:%20A%20Robust%2C%20Real-time%2C%20RGB-colored%2C%20LiDAR-Inertial-Visual%20tightly-coupled%20stateEstimation%20and%20mapping%20package.pdf
 
-- 回复关键字：
+代码：https://github.com/hku-mars/r3live
 ```
 
+- 回复关键字：车端激光
 ```
-
-- 回复关键字：
+代码：http://wiki.ros.org/velo2cam_calibration 
 ```
 
+- 回复关键字：VIO定位
 ```
-
-- 回复关键字：
+代码开源：https://github.com/Zumbalamambo/2D-3D-pose-tracking 
 ```
 
+- 回复关键字：Range Image
 ```
-
-- 回复关键字：
+代码开源：https://github.com/PRBonn/range-mcl
 ```
 
+- 回复关键字：SegICP
 ```
-
-- 回复关键字：
+Code: https://github.com/jaymwong/seline
 ```
 
+- 回复关键字：0010
 ```
-
-- 回复关键字：
+链接：https://pan.baidu.com/s/18TruEsScJDHY8Cw3S2hRfA  提取码：oir1 
 ```
 
+- 回复关键字：数据集
 ```
-
-- 回复关键字：
+免费数据集地址：http://m6z.cn/5ZBLEU
 ```
 
+- 回复关键字：谷歌X实习生
 ```
-
-- 回复关键字：
+补充材料视频 https://share.weiyun.com/XbuFfAvcIROS
+开会讲解视频 https://share.weiyun.com/R3myU8Rc
+讲解视频字幕 https://share.weiyun.com/8bgNvu0U 
 ```
 
+- 回复关键字：MVTN
+```
+论文地址：https://arxiv.org/abs/2011.13244
+项目地址：https://github.com/ajhamdi/MVTN 
 ```
 
 - 回复关键字：
