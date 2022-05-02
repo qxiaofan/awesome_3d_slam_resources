@@ -1,5 +1,500 @@
 「3D视觉工坊」及「计算机视觉工坊」后台关键字回复汇总
 
+- 回复关键字：结构光方法
+```
+直播地址：
+https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_61166783e4b0bf643005a813?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=p_609281f5e4b0d4eb039721a1&amp;type=2
+
+直播时间：2021年8月15日上午10点
+```
+
+- 回复关键字：梅卡曼德
+```
+联系方式：vision3d@yeah.net 或者 加微信：CV_LAB，
+备注：3D视觉工坊 + 应聘公司和岗位名称
+```
+
+- 回复关键字：EADM
+```
+标题：ISMAR 2020，宜家+苹果，实现混合现实家居设计！
+Title：ISMAR 2020：Exploiting ARKit Depth Maps for Mixed Reality Home Design
+链接：https://drive.google.com/file/d/19cg1hi_odSSnafmNw3NZoKzab_6VY-K0/view
+```
+
+- 回复关键字：磅客策
+```
+联系方式：zhangzd@pangce.com.cn 18345378858
+备注：3D视觉工坊
+```
+
+- 回复关键字：黑豹
+```
+邮箱:sx_blackpanther@163.com
+电话：18729289275（曹女士）微信同号
+```
+
+- 回复关键字：EAOSLA
+```
+标题：EAO-SLA：集成数据关联的单目半稠密物体级SLAM，代码开源（IROS2020）
+Title：EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association
+文：https://arxiv.org/abs/2004.12730v2
+代码：https://github.com/yanmin-wu/EAO-SLAM
+```
+
+- 回复关键字：REAL
+```
+标题：IROS2021，REAL：放出一台无人机对未知路况进行主动闭环的快速探索
+
+Title：REAL: Rapid Exploration with Active Loop-Closing toward Large-Scale 3D Mapping using UAVs
+
+论文：https://arxiv.org/abs/2108.02590
+```
+
+- 回复关键字：西人马
+```
+请将简历投递给：
+Iron.liu@fatritech.com 或 2090410896@qq.com
+备注：3D视觉工坊
+```
+
+- 回复关键字：尺度可观测性
+```
+论文地址：https://arxiv.org/pdf/2103.15215.pdf
+代码地址：https://github.com/jpl-x
+```
+
+- 回复关键字：瓦特曼
+```
+简历投递邮箱：anan@wattman.cn
+HR微信：550573044
+```
+
+- 回复关键字：外参标定
+```
+代码即将在https://github.com/alibaba开源
+```
+
+- 回复关键字：THFM
+```
+标题：最新ICCV2021论文，深度学习结合可微分光线追踪实现高保真的3D人脸重建
+Title：Towards High Fidelity Monocular Face Reconstruction with Rich Reflectance using Self-supervised Learning and Ray Tracing
+论文：https://arxiv.org/abs/2103.15432
+```
+
+- 回复关键字：FASTLIO2
+```
+标题：港大火星实验室FAST-LIO框架大升级，实现超100Hz的LiDAR速率，支持更多LiDAR和平台！
+Title：FAST-LIO2: Fast Direct LiDAR-inertial Odometry
+论文：https://github.com/hku-mars/FAST_LIO/blob/main/doc/Fast_LIO_2.pdf
+代码：https://github.com/hku-mars/FAST_LIO
+```
+
+- 回复关键字：技术总结
+```
+V技术指南--技术总结
+
+链接：https://pan.baidu.com/s/1VnMNnZPgr_GErWqlKj_Cqg 
+提取码：CVCV
+```
+
+- 回复关键字：DSAP
+```
+Title：IROS2021: Drone System for Autonomous Power line Inspection
+标题：IROS2021，用于自主电力线路检查的无人机系统，直接挂高压电线上自动充电！
+链接：https://findresearcher.sdu.dk:8443/ws/portalfiles/portal/183912681/IROS2021.pdf
+```
+
+- 回复关键字：Transformer
+```
+链接：https://pan.baidu.com/s/18AQ1JQxHpmb10Cxdg17gQA 提取码：7ijg
+```
+
+- 回复关键字：高速结构光
+```
+直播地址：https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_60fac44de4b08f7ad24018e4?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=p_609281f5e4b0d4eb039721a1&amp;type=2
+
+直播时间：7月24日晚八点
+```
+
+- 回复关键字：PCTF
+```
+Title：Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation
+标题：单张图片AI生成视频真假难辨，唇形准确同步，脑袋也能自由转动（代码开源）
+论文：https://arxiv.org/abs/2104.11116
+代码：https://hangz-nju-cuhk.github.io/projects/PC-AVS
+```
+
+- 回复关键字：小鹏
+```
+【简历投递邮箱】wangyc3@xiaopeng.com
+```
+
+- 回复关键字：CorrNet3D
+```
+论文链接：https://arxiv.org/pdf/2012.15638.pdf
+代码链接：https://github.com/ZENGYIMING-EAMON/CorrNet3D
+```
+
+- 回复关键字：AS3D
+```
+Title：Active SLAM using 3D Submap Saliency for Underwater V olumetric Exploration
+
+标题：ICRA2021，卡内基梅隆大学机器人研究所，水下环境下基于三维子图显著性的主动SLAM探测应用
+论文：http://www.cs.cmu.edu/~kaess/pub/Suresh20icra.pdf
+```
+
+- 回复关键字：AWUL
+```
+标题：GPS信息丢失，利用3D语义信息来精准定位自动驾驶车辆位置，精度达到10m！
+
+Title：Any Way You Look at It: Semantic Crossview Localization and Mapping With LiDAR
+
+论文：https://ieeexplore.ieee.org/document/9361130
+```
+
+- 回复关键字：三星电子
+```
+简历投递：recruit.bst@samsung.com
+```
+
+- 回复关键字：创新中心
+```
+蒋芬芬：15270896376（微信同号）
+备注：3D视觉工坊
+```
+
+- 回复关键字：CO3D
+```
+链接:https://pan.baidu.com/s/1UZhFOGhglGPWgLJ1UJXo8Q  密码:lsxx
+```
+
+- 回复关键字：PTEC
+```
+标题：IROS 2021，使用事件相机对电力线路进行巡查，线路寿命增加十倍！代码开源！
+Title： Powerline Tracking with Event Cameras (IROS 2021)
+代码：https://github.com/uzh-rpg/line_tracking_with_event_cameras
+```
+
+- 回复关键字：58同城
+```
+简历请投递至：tianhu01@58.com​
+备注：3D视觉工坊
+```
+
+- 回复关键字：Range Image
+```
+代码开源：https://github.com/PRBonn/range-mcl
+```
+
+- 回复关键字：VIO
+```
+代码开源：https://github.com/Zumbalamambo/2D-3D-pose-tracking.
+```
+
+- 回复关键字：激光
+```
+直播地址: https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_61414282e4b04518c6144667?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=p_6118d835e4b0a27d0e3dd43c&amp;type=2
+
+2021年9月19日晚八点
+```
+
+- 回复关键字：R3LIVE
+```
+论文地址： https://github.com/hku-mars/r3live/blob/master/papers/R3LIVE:%20A%20Robust%2C%20Real-time%2C%20RGB-colored%2C%20LiDAR-Inertial-Visual%20tightly-coupled%20stateEstimation%20and%20mapping%20package.pdf
+代码：https://github.com/hku-mars/r3live
+```
+
+- 回复关键字：MVSNeRF
+```
+标题：ICCV2021，MVSNeRF，基于多视图立体快速泛化的NeRF重建，效果比原始NeRF更好！
+Title：MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo
+链接：https://arxiv.org/abs/2103.15595
+代码：https://github.com/apchenstu/mvsnerf
+```
+
+- 回复关键字：ICRA-VDEU
+```
+Title：ICRA 2020，Vision-aided Dynamic Exploration of Unstructured Terrain
+
+标题：ICRA 2020，MIT机器狗在杂乱地形下能跑、能跳，大幅增强机械狗的地形通过能力！
+
+链接：https://ieeexplore.ieee.org/abstract/document/9196777
+```
+
+- 回复关键字：多传感器
+```
+直播地址: https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_613a09d9e4b0b558b92e9b81?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=&amp;type=2
+
+2021年9月12日晚八点
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+
+
 - 回复关键字：MLOAM
 ```
 Title：Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration
