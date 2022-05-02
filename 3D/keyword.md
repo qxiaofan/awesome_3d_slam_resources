@@ -1,5 +1,987 @@
 「3D视觉工坊」及「计算机视觉工坊」后台关键字回复汇总
 
+- 回复关键字：Panop
+```
+标题：ICRA2022：自适应环境的移动机器人自主导航
+
+Title：An Efficient Locally Reactive Controller for Safe Navigation in Visual Teach and Repeat Missions
+
+链接：https://arxiv.org/abs/2201.03938
+```
+
+- 回复关键字：EvIntSR-Net
+```
+标题：北大工作！EvIntSR-Net：基于事件相机的视频帧重建和超分辨率（ICCV2021）
+title：ICCV 2021: EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution
+链接：https://openaccess.thecvf.com/content/ICCV2021/papers/Han_EvIntSR-Net_Event_Guided_Multiple_Latent_Frames_Reconstruction_and_Super-Resolution_ICCV_2021_paper.pdf
+```
+
+- 回复关键字：诺亚方舟
+```
+简历直通车：baidongfeng@huawei.com
+邮件主题及附件命名为：姓名+学校+年级+实习开始时间+可实习时间长度
+```
+
+- 回复关键字：2021SLAM
+```
+[资料 | 2021年开源SLAM算法集锦]
+
+链接：https://www.jianguoyun.com/p/DWj0LqsQnL_KCRitnqYE
+```
+
+- 回复关键字：LMSCNet
+```
+标题：LMSCNet：轻量级多尺度 3D 语义分割
+Title：LMSCNet: Lightweight Multiscale 3D Semantic Completion
+链接：https://arxiv.org/abs/2008.10559
+代码：https://github.com/cv-rits/LMSCNet
+```
+
+- 回复关键字：小目标检测
+```
+tph-yolov5：https://github.com/cv516Buaa/tph-yolov5/blob/main/models/common.py
+
+其他改进：https://github.com/Gumpest/YOLOv5-Multibackbone-Compression
+
+增加小目标检测层：https://mp.weixin.qq.com/s/3ecefgmOZU-zugMdMWlTaA
+```
+
+- 回复关键字：MHPE
+```
+标题：麻省理工：解决物体级SLAM中姿态歧义的多假设方法（IROS 2021）
+
+Title：A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM | IROS 2021
+
+链接：http://people.csail.mit.edu/yuewang/publication/obj-slam/
+```
+
+- 回复关键字：TUPPer
+```
+标题：[IROS2021] TUPPer-Map：用于 3D 度量语义建图的时间和统一全景感知
+
+Title：TUPPer-Map: Temporal and Unified Panoptic Perception for 3D Metric-Semantic Mapping
+
+链接：https://ieeexplore.ieee.org/abstract/document/9636599
+```
+
+- 回复关键字：ESMOT
+```
+标题：[ICCV2021] 轻舟智航，探索用于自动驾驶的3D点云多目标跟踪
+
+Title：Exploring Simple 3D Multi-Object Tracking for Autonomous Driving
+
+链接：https://arxiv.org/abs/2108.10312v1
+```
+
+- 回复关键字：Panop
+```
+标题：NeurIPS 2021：利用神经网络从单个 RGB 图像重建全景 3D 场景
+Title：Panoptic 3D Scene Reconstruction From a Single RGB Image (NeurIPS 2021)
+链接：https://arxiv.org/pdf/2111.02444.pdf
+```
+
+- 回复关键字：TMWS
+```
+标题：[ICCV 2021] 基于水体流动的可微框架进行水下单目3D重建
+Title：In-the-Wild Single Camera 3D Reconstruction Through Moving Water Surfaces [ICCV 2021 Oral]
+链接：https://vccimaging.org/Publications/Xiong2021MovingWater/Xiong2021MovingWater.pdf
+代码：https://github.com/vccimaging/Reconstrution_Through_Moving_Water
+```
+
+- 回复关键字：无人机
+```
+直播主题：  四旋翼飞行器：算法与实战
+
+直播地址：
+https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_61bdc052e4b0ed68333fb214?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=&amp;type=2
+```
+
+- 回复关键字：3D线激光
+```
+直播链接：
+https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_61b35deae4b0dabb65a398dc?app_id=app0S6nfQRG6303&amp;amp;alive_mode=0&amp;amp;pro_id=&amp;amp;type=2
+
+课件：链接：https://pan.baidu.com/s/1yZPBj6Jr-ZnjUUEPdMt3ow 
+提取码：w7wx 
+
+加入「3D视觉从入门到精通」知识星球，获取更多干货课件及视频。
+
+```
+
+- 回复关键字：DeepPanoContext
+```
+论文地址：https://arxiv.org/abs/2108.10743v1
+项目地址：https://chengzhag.github.io/publication/dpc
+```
+
+- 回复关键字：ORBSLAM
+```
+ORB-SLAM2 / ORB-SLAM3 相关改进代码汇总 
+PDF链接: https://pan.baidu.com/s/1_rAypo0dBWivxWl61-pgig 
+提取码: 8t64
+```
+
+- 回复关键字：ASBM
+```
+标题：ICCV2021：基于分配空间的多目标跟踪和分割
+Title：Assignment-Space-Based Multi-Object Tracking and Segmentation (ICCV 2021)
+代码：https://anwesachoudhuri.github.io/Assignment-Space-based-MOTS/
+```
+
+- 回复关键字：RSVHSW
+```
+标题：[ICCV2021] 单目实时3D人体姿态估计，效果巨好！仿真数据集训练，真实数据测试！
+
+Title：2021 Real-time single view 3D human shape and pose with uncertainty in the wild
+
+链接：https://arxiv.org/abs/2110.00990
+
+代码：https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman
+```
+
+- 回复关键字：VisualE
+```
+标题：[ECCV2020] Facebook研究，AI实现生物声呐定位、导航
+
+Title：VisualEchoes: Spatial Image Representation Learning through Echolocation
+
+链接：https://arxiv.org/pdf/2005.01616.pdf
+
+项目：https://vision.cs.utexas.edu/projects/visualEchoes/
+```
+
+- 回复关键字：光学镜片
+```
+联系方式：郑先生18028280278
+```
+
+- 回复关键字：CVPR-AEC
+```
+Title：香港大学工作！CVPR2022：事件相机的自动对焦（代码开源）
+标题：Autofocus for Event Cameras
+链接：https://arxiv.org/pdf/2203.12321.pdf
+代码：https://eleboss.github.io/eaf_webpage/
+```
+
+- 回复关键字：Occlusion
+```
+Title：OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction
+标题：OcclusionFusion：遮挡感知运动估计的实时动态3D重建
+链接：https://arxiv.org/abs/2203.07977
+代码：https://wenbin-lin.github.io/OcclusionFusion/
+```
+
+- 回复关键字：DHDRU
+```
+标题：[CVPR2022] 使用单幅彩色点投影的深度学习高光谱和深度重建
+
+Title：Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection
+
+链接：http://www.ok.sc.e.titech.ac.jp/res/DHD/
+
+代码：https://github.com/GrayMask/DHD
+```
+
+- 回复关键字：诺亚方舟实验室
+```
+ “2022年实习+姓名”及个人简历发送至邮箱：dongwenhui3@hisilicon.com 
+```
+
+- 回复关键字：GCTC
+```
+标题：ICRA2022：全局一致且紧密耦合的 3D LiDAR 惯性建图
+
+Title：Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping
+
+链接：https://staff.aist.go.jp/k.koide/assets/pdf/icra2022.pdf
+```
+
+- 回复关键字：GANgeal
+```
+标题：CVPR2022：GAN监督的密集视觉配准用于多种AR应用
+Title：GANgealing: GAN-Supervised Dense Visual Alignment
+链接：https://arxiv.org/abs/2112.05143
+代码：https://github.com/wpeebles/gangealing
+```
+
+- 回复关键字：ICGFR
+```
+标题：[CVPR2022] ICG：融合区域和深度以实现无纹理对象的高效3D跟踪
+Title：Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects
+链接：https://arxiv.org/abs/2203.05334
+代码：https://github.com/DLR-RM/3DObjectTracking
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
+- 回复关键字：
+```
+
+```
+
 - 回复关键字：结构光方法
 ```
 直播地址：
@@ -617,13 +1599,6 @@ Title：An Efficient Locally Reactive Controller for Safe Navigation in Visual T
 
 链接：https://arxiv.org/abs/2201.03938
 ```
-
-- 回复关键字：
-```
-
-```
-
-
 
 - 回复关键字：MLOAM
 ```
