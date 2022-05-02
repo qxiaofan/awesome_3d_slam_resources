@@ -228,169 +228,248 @@ Title：ICRA 2020，Vision-aided Dynamic Exploration of Unstructured Terrain
 2021年9月12日晚八点
 ```
 
-- 回复关键字：
+- 回复关键字：IROS-SMED
 ```
-
+标题：IROS2020，动态场景中的速度和内存效率高的稠密 RGB-D SLAM
+Title：Speed and Memory Efficient Dense RGB-D SLAM in Dynamic Scenes
+链接：http://ras.papercept.net/images/temp/IROS/files/0404.pdf
 ```
 
-- 回复关键字：
+- 回复关键字：车端激光
 ```
-
+代码：http://wiki.ros.org/velo2cam_calibration
 ```
 
-- 回复关键字：
+- 回复关键字：ICRA-SDK
 ```
-
+标题：[ICRA2021] SDK：基于深度学习和显著性估计的点云关键点检测
+Title：SKD: Keypoint Detection for Point Clouds using Saliency Estimation
+链接：https://www.robots.ox.ac.uk/~mobile/drs/Papers/2021RAL_tinchev.pdf
 ```
 
-- 回复关键字：
+- 回复关键字：3D测量
 ```
-
+联系方式：
+宁先生 156 5213 6668（微信同号）
+欢迎交流指导！
 ```
 
-- 回复关键字：
+- 回复关键字：L3DOP
 ```
-
+标题：ICCV2021，浙大工作！遮挡环境下基于学习的未知空间占用分布预测，机器人运动轨迹更加光滑、安全！
+Title：Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments
+链接：https://arxiv.org/abs/2011.03981v1
 ```
 
-- 回复关键字：
+- 回复关键字：Query
 ```
-
+标题：ICCV2021，顶尖实例分割模型：QueryInst
+Title：Instances as Queries
+链接：https://arxiv.org/abs/2105.01928v3
+代码：https://github.com/hustvl/QueryInst
 ```
 
-- 回复关键字：
+- 回复关键字：RMAN
 ```
-
+标题：CVPR 2021，点云配准工作！循环多视图对齐网络的无监督表面点云配准！
+Title：Recurrent Multi-view Alignment Network for Unsupervised Surface Registration (CVPR 2021)
+论文：https://arxiv.org/abs/2011.12104
+代码：https://wanquanf.github.io/RMA-Net.html
 ```
 
-- 回复关键字：
+- 回复关键字：蔚来
 ```
-
+简历投递
+kristanna.xiao@nio.com
+ 备注：3D视觉工坊
 ```
 
-- 回复关键字：
+- 回复关键字：R3LIVE
 ```
-
+标题：港大火星实验室最新工作，R3LIVE：一个健壮、实时的Lidar-IMU-视觉紧耦合顶尖SLAM框架
+Title：R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package
+论文：https://arxiv.org/abs/2109.07982
+代码：https://github.com/hku-mars/r3live
 ```
 
-- 回复关键字：
+- 回复关键字：SimROD
 ```
-
+Ttile：SimROD: A Simple Adaptation Method for Robust Object Detection
+标题：ICCV2021，华为提出鲁棒无监督自适应目标检测方法
+论文：https://arxiv.org/abs/2107.13389
+代码：https://github.com/reactivetype/simrod
 ```
 
-- 回复关键字：
+- 回复关键字：GICP
 ```
-
+标题：KITTI上准确率第二，GPU加速GICP匹配代价因子的全局一致的3D LiDAR映射
+Title：Globally Consistent 3D LiDAR Mapping with GPU-accelerated GICP Matching Cost Factors
+链接：https://arxiv.org/abs/2109.07073
 ```
 
-- 回复关键字：
+- 回复关键字：LineTR
 ```
-
+Title：Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization
+标题：LineTR：用于视觉定位的上下文感知线描述符
+链接：https://arxiv.org/abs/2109.04753
+代码：https://github.com/yosungho/LineTR
 ```
 
-- 回复关键字：
+- 回复关键字：GPA
 ```
+标题：GPA：凝视增强感知系统，视觉辅助无人机安全飞行（ICRA2021）
 
-```
+Title：GPA-Teleoperation: Gaze Enhanced Perception-aware Safe Assistive Aerial Teleoperation
 
-- 回复关键字：
+链接：https://arxiv.org/abs/2109.04907
 ```
 
+- 回复关键字：谷歌X实习生
 ```
-
-- 回复关键字：
+补充材料视频 https://share.weiyun.com/XbuFfAvcIROS
+开会讲解视频 https://share.weiyun.com/R3myU8Rc
+讲解视频字幕 https://share.weiyun.com/8bgNvu0U
 ```
 
+- 回复关键字：RVM
 ```
-
-- 回复关键字：
+标题：字节跳动研究，4K图像76FPS实时抠图！代码开源！
+Title：Robust High-Resolution Video Matting with Temporal Guidance
+论文：http://arxiv.org/abs/2108.11515
+代码：https://github.com/PeterL1n/RobustVideoMatting
 ```
 
+- 回复关键字：国旗头像
 ```
+渐变国旗图像制作工具
 
-- 回复关键字：
-```
+通道一：https://sourl.cn/8zv3Z2
+通道二：https://sourl.cn/FNATTE
+通道三：https://sourl.cn/LhMsd6
 
+如果有拦截，复制上方任意地址，粘贴到手机浏览器中打开！
 ```
 
-- 回复关键字：
+- 回复关键字：CVPR-HPS
 ```
-
+标题：[CVPR 2021] HPS：无需外部传感器，大场景、长时间的动作捕获系统
+title：[CVPR 2021] HPS：3d Human Pose Estimation And Self-localization In Large Scenes From Body-mounted Sensors
+论文：http://virtualhumans.mpi-inf.mpg.de/papers/guzov-mir21HPS/guzov-mir21HPS.pdf
+代码：http://virtualhumans.mpi-inf.mpg.de/hps/
 ```
 
-- 回复关键字：
+- 回复关键字：DCSR
 ```
-
+标题：[ICCV2021] 港科大：基于对准注意力模块的双摄像头超分辨率恢复
+Title：[ICCV 2021 (Oral Presentation)] Dual-Camera Super-Resolution with Aligned Attention Modules
+论文：https://arxiv.org/abs/2109.01349
+代码：https://tengfei-wang.github.io/Dual-Camera-SR/index.html
 ```
 
-- 回复关键字：
+- 回复关键字：NALSM
 ```
-
+Title：[SIGGRAPH 2021] Neural Animation Layering for Synthesizing Martial Arts Movements
+标题：SIGGRAPH 2021，AI武术指导化！帮助动画师生成武术动作！
+项目：https://github.com/sebastianstarke/AI4Animation
+论文：https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf
 ```
 
-- 回复关键字：
+- 回复关键字：LVISAM
 ```
+直播地址：
+https://app0s6nfqrg6303.h5.xiaoeknow.com/v2/course/alive/l_616b5a51e4b05adf2075c665?app_id=app0S6nfQRG6303&amp;alive_mode=0&amp;pro_id=p_612106d2e4b020185a9db0fe&amp;type=2
 
+直播时间：
+2021年10月17日晚八点。
 ```
 
-- 回复关键字：
+- 回复关键字：Choeo
 ```
-
+标题：网易互娱：音乐驱动舞蹈动作合成（SIGGRAPH 2021）
+Title：SIGGRAPH 2021，ChoreoMaster : Choreography-Oriented Music-Driven Dance Synthesis
+论文：https://netease-gameai.github.io/ChoreoMaster/Paper.pdf
+项目：https://netease-gameai.github.io/ChoreoMaster/
 ```
 
-- 回复关键字：
+- 回复关键字：字节跳动实习生
 ```
-
+把PDF简历发送到guohengkai@bytedance.com，标题为“字节跳动计算机视觉实习申请 - 姓名 - 学校 - 年级”
+备注：3D视觉工坊
 ```
 
-- 回复关键字：
+- 回复关键字：DLIO
 ```
-
+标题：ICRA2021：基于多模态地标统一跟踪的紧耦合激光-视觉-惯性里程计
+Title：Dynamic LIDAR Inertial Odometry with the Ross Robotics Extrm Robot
+链接：https://arxiv.org/abs/2011.06838
 ```
 
-- 回复关键字：
+- 回复关键字：单目深度估计
 ```
-
+单目深度估计
+直播时间：2021年11月7日晚八点
+直播地址：https://lgo.h5.xeknow.com/s/4sEIIM
 ```
 
-- 回复关键字：
+- 回复关键字：IGSRM
 ```
-
+标题：[IROS2021] 卡内基梅隆大学，通过触觉感知物体重心，提升机器人抓取稳定性
+Title：IROS2021-Improving Grasp Stability with Rotation Measurement from Tactile Sensing
+链接：https://arxiv.org/abs/2108.00301
 ```
 
-- 回复关键字：
+- 回复关键字：YDOLO
 ```
-
+标题：[ICCV2021] 浙大&amp;商汤最新研究：构建时空记忆力，用于提升3D对象检测和跟踪！
+Title：You Don&#39;t Only Look Once: Constructing Spatial-Temporal Memory for Integrated 3D Object Detection and Tracking
+代码：https://zju3dv.github.io/udolo/
 ```
 
-- 回复关键字：
+- 回复关键字：CodeMap
 ```
-
+标题：[RA-L2021] 英国帝国理工最新工作，使用紧凑场景表示稀疏SLAM实时稠密建图!
+Title：CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations
+论文：https://arxiv.org/abs/2107.08994
 ```
 
-- 回复关键字：
+- 回复关键字：ICRA-ABTER
 ```
-
+标题：[ICRA2021] 基于自动行为树的机械臂系统异常处理框架，针对抓取过程中的各种异常！
+Title：Automated Behavior Tree Error Recovery Framework for Robotic Systems
+论文：https://ieeexplore.ieee.org/abstract/document/9561002
 ```
 
-- 回复关键字：
+- 回复关键字：MVTN
 ```
-
+论文地址：https://arxiv.org/abs/2011.13244
+项目地址：https://github.com/ajhamdi/MVTN
 ```
 
-- 回复关键字：
+- 回复关键字：TRIOD
 ```
-
+标题：ICCV 2021：几行代码提升对旋转目标的检测精度，目标检测中的旋转不变性
+title：Towards Rotation Invariance in Object Detection - ICCV 2021
+论文：https://arxiv.org/abs/2109.13488
+代码：https://github.com/akasha-imaging/ICCV2021
 ```
 
-- 回复关键字：
+- 回复关键字：CVPR2021-TCMR
 ```
-
+Title：TCMR: Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video
+标题：[CVPR2021] TCMR：超越静态特征的视频时间一致3D人体姿态和形状估计
+论文：https://arxiv.org/abs/2011.08627
+代码：https://github.com/hongsukchoi/TCMR_RELEASE
 ```
 
-- 回复关键字：
+- 回复关键字：ICCV2021-NEAT
 ```
+Title：NEAT: Neural Attention Fields for End-to-End Autonomous Driving
+
+标题：ICCV2021NEAT：端到端自动驾驶的神经注意场方法
+
+链接：http://www.cvlibs.net/publications/Chitta2021ICCV.pdf
 
+代码：https://github.com/autonomousvision/neat
 ```
 
 - 回复关键字：
