@@ -212,59 +212,95 @@ Title：Iterative Corresponding Geometry: Fusing Region and Depth for Highly Eff
 代码：https://github.com/DLR-RM/3DObjectTracking
 ```
 
-- 回复关键字：
+- 回复关键字：InsetGAN
+```
+标题：[CVPR2022] 能换全身发型、服装的Gan网络（代码开源）
+
+Title：InsetGAN for Full-Body Image Generation
+
+代码：https://afruehstueck.github.io/insetgan/
 ```
 
+- 回复关键字：PCICT
+```
+标题：CVPR2022：最强鉴别器！用深度学习鉴定伪造的人脸
+Title：Protecting Celebrities with Identity Consistency Transformer-CVPR2022
+链接：https://arxiv.org/abs/2203.01318
 ```
 
-- 回复关键字：
+- 回复关键字：HSC4D
+```
+标题：[CVPR2022] 厦门大学空间感知与计算实验室：使用可穿戴 IMU和LiDAR的大规模室内外4D场景捕获 [代码开源]
+
+Title：Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR
+
+链接：https://arxiv.org/abs/2203.09215
+
+代码：https://github.com/climbingdaily/HSC4D
 ```
 
+- 回复关键字：RefVSR
+```
+标题：CVPR2022：广角、超广角和长焦镜头的多摄像头超分辨率合成，1080P变8K视频！
+Title：Reference-based Video Super-Resolution Using Multi-Camera Video Triplets
+链接：https://arxiv.org/abs/2203.14537v1
 ```
 
-- 回复关键字：
+- 回复关键字：SAR-Net
+```
+标题：复旦大学工作！SAR-Net：用于类别级 6D 对象姿势和大小估计的形状配准和恢复网络
+Title：SAR-Net: Shape Alignment and Recovery Network for Category-level 6D Object Pose and Size Estimation
+代码：https://hetolin.github.io/SAR-Net/
 ```
 
+- 回复关键字：StyleMesh
+```
+标题：慕尼黑工业大学：StyleMesh：室内 3D 场景重建的风格转移 [CVPR2022]
+
+Title：StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions
+
+链接：https://arxiv.org/pdf/2112.01530.pdf
+
+代码：https://lukashoel.github.io/stylemesh/
 ```
 
-- 回复关键字：
+- 回复关键字：CVPR2022-BOBL
+```
+标题：香港城市大学与微软联合工作！AI还原老电影 [CVPR2022]
+Title：Bringing Old Films Back to Life
+链接：https://arxiv.org/pdf/2203.17276.pdf
+代码：http://raywzy.com/Old_Film/
 ```
 
+- 回复关键字：CVPR-CRF
+```
+标题：用于单目深度估计的神经窗口全连接CRF [CVPR2022]
+
+Title：NeW CRFs: Neural Window Fully-connected CRFs for Monocular Depth Estimation
+
+链接：https://arxiv.org/abs/2203.01502
+
+代码：https://weihaosky.github.io/newcrfs/
 ```
 
-- 回复关键字：
+- 回复关键字：ELAVM
+```
+标题：港大火星实验室：在线 LiDAR 里程计的高效概率自适应体素映射
+Title：Efficient and Probabilistic Adaptive Voxel Mapping for Accurate Online LiDAR Odometry
+链接：https://arxiv.org/abs/2109.07082v4
 ```
 
+- 回复关键字：数据集
+```
+免费数据集地址：http://m6z.cn/5ZBLEU
 ```
 
-- 回复关键字：
+- 回复关键字：3DV-ESL
 ```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
-```
-
-- 回复关键字：
-```
-
+标题：苏黎世联邦理工：基于事件相机的三维结构光技术ESL，性能好于Realsense技术！
+Title：ESL: Event-based Structured Light
+链接：https://rpg.ifi.uzh.ch/docs/3DV21_Muglikar_ESL.pdf
+代码：https://github.com/uzh-rpg/ESL
 ```
 
 - 回复关键字：
